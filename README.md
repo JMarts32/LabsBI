@@ -1,2 +1,5 @@
 # LabsBI
-Repositorio para los labs de BI
+
+Juan Martin Santos Ayala repo for BI
+
+Learning Machine learning Yey
