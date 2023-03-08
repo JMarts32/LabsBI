@@ -1,0 +1,1001 @@
+id;Sexo;TipoCliente;Edad;TipoViaje;Clase;DistanciaREconomicarrida;SatServicioWifi;SatPuntualidad;SatComidaBebidas;ComodidadSilla;SatEntretenimiento;SatServicioAbordo;NivelLimpieza;MinRetrasoSalida;satisfaccion
+63296;M;Frecuente;16;Negocios;Ejecutiva;3192;3;2;300;3;3;3;3;31;neutro o insatisfecho
+73453;F;Frecuente;7;Personal;Economica;1012;3;5;5;2;5;2;5;26;neutro o insatisfecho
+1316;F;Frecuente;39;Negocios;Ejecutiva;2204;1;1;3;4;4;4;3;0;satisfecho
+128845;F;Frecuente;9;Personal;Economica;2475;4;2;4;5;1;5;5;0;neutro o insatisfecho
+32338;M;Frecuente;56;Negocios;Ejecutiva;3344;0;5;3;4;2;2;5;0;satisfecho
+113543;M;Frecuente;37;Negocios;Ejecutiva;1954;4;2;3;3;4;4;4;10;neutro o insatisfecho
+22065;M;Frecuente;21;Negocios;Ejecutiva;3179;5;5;5;5;5;2;5;0;satisfecho
+47721;F;Frecuente;51;Negocios;Ejecutiva;3107;3;3;4;5;5;5;3;0;satisfecho
+24019;F;Frecuente;47;Negocios;Economica;427;5;3;3;1;5;5;2;2;satisfecho
+97453;Male;Frecuente;52;Negocios;Ejecutiva;484;2;2;4;4;4;4;3;0;satisfecho
+72100;M;Frecuente;37;Personal;Economica;2486;3;1;4;4;4;2;4;11;neutro o insatisfecho
+76600;M;Frecuente;70;Negocios;Ejecutiva;481;4;3;3;3;4;4;4;0;neutro o insatisfecho
+1628;F;Esporadico;28;Negocios;Ejecutiva;999;1;1;2;4;2;4;2;0;neutro o insatisfecho
+56902;M;Esporadico;27;Negocios;Ejecutiva;2454;2;2;2;3;4;4;3;0;neutro o insatisfecho
+11994;F;Frecuente;39;Personal;Economica;643;3;5;3;3;3;5;3;6;neutro o insatisfecho
+58975;M;Frecuente;45;Negocios;Ejecutiva;1726;1;1;4;4;5;5;4;24;satisfecho
+105197;F;Frecuente;45;Negocios;MuyEconomicanomica;289;4;5;3;4;4;4;1;0;satisfecho
+65411;M;Frecuente;31;Negocios;Ejecutiva;631;1;1;5;5;5;4;5;1;satisfecho
+87000;M;Frecuente;24;Personal;Economica;907;2;5;4;4;4;4;4;28;neutro o insatisfecho
+22813;M;Frecuente;45;Negocios;Economica;302;4;5;4;4;4;2;4;0;satisfecho
+25513;F;Esporadico;30;Negocios;Economica;516;2;5;1;1;1;3;1;6;neutro o insatisfecho
+63484;M;Frecuente;38;Personal;MuyEconomicanomica;337;2;5;1;1;1;5;1;0;neutro o insatisfecho
+128054;F;Frecuente;63;Personal;Economica;735;1;1;5;3;1;1;1;11;neutro o insatisfecho
+89423;F;Frecuente;55;Negocios;Ejecutiva;151;1;1;4;3;5;5;3;0;satisfecho
+42135;F;Frecuente;17;Negocios;MuyEconomicanomica;996;2;2;2;1;2;1;2;0;neutro o insatisfecho
+2777;F;Frecuente;57;Negocios;Ejecutiva;2054;3;3;4;4;5;5;3;0;satisfecho
+28652;M;Frecuente;54;Personal;Economica;2404;2;3;5;5;5;2;5;0;neutro o insatisfecho
+29589;F;Frecuente;31;Negocios;Ejecutiva;2261;5;5;4;4;4;3;4;0;satisfecho
+127894;F;Frecuente;46;Negocios;Ejecutiva;1671;1;1;2;4;2;2;4;2;satisfecho
+124606;M;Esporadico;20;Negocios;Ejecutiva;1671;2;2;5;5;5;1;5;0;neutro o insatisfecho
+129310;M;Frecuente;64;Negocios;Ejecutiva;2475;3;3;2;5;5;5;3;4;satisfecho
+2850;F;Frecuente;17;Negocios;Ejecutiva;2711;3;1;3;3;3;1;3;11;neutro o insatisfecho
+102308;F;Frecuente;74;Negocios;Ejecutiva;236;4;3;4;3;4;4;3;0;neutro o insatisfecho
+1947;F;Frecuente;61;Negocios;Economica;383;3;3;1;4;3;3;2;5;neutro o insatisfecho
+24145;M;Frecuente;45;Negocios;Ejecutiva;302;2;2;1;3;5;5;3;0;satisfecho
+8983;F;Frecuente;56;Personal;Economica;725;1;2;3;4;5;5;4;0;neutro o insatisfecho
+24906;M;Esporadico;25;Negocios;Economica;762;3;3;5;5;5;3;5;42;neutro o insatisfecho
+81795;F;Esporadico;28;Negocios;Economica;950;2;2;3;3;3;2;3;0;neutro o insatisfecho
+6385;F;Frecuente;31;Negocios;Ejecutiva;3160;3;1;3;3;3;2;3;85;neutro o insatisfecho
+113912;F;Frecuente;38;Negocios;Ejecutiva;2329;1;1;4;4;4;4;4;10;satisfecho
+125701;M;Frecuente;67;Personal;Economica;899;2;5;2;2;2;5;2;0;neutro o insatisfecho
+88939;M;Frecuente;35;Negocios;Ejecutiva;1697;5;5;3;5;4;4;4;12;satisfecho
+68273;Male;Frecuente;56;Negocios;Ejecutiva;3219;1;1;2;4;5;5;4;0;satisfecho
+99100;F;Esporadico;28;Negocios;Ejecutiva;419;5;5;3;2;3;5;3;1;satisfecho
+57373;M;Frecuente;27;Personal;Economica;414;4;3;5;1;5;3;5;0;neutro o insatisfecho
+123314;F;Frecuente;26;Negocios;MuyEconomicanomica;507;1;1;1;2;1;1;1;93;neutro o insatisfecho
+40745;M;Frecuente;43;Negocios;Ejecutiva;2554;3;3;3;4;4;4;2;7;satisfecho
+16633;M;Frecuente;25;Negocios;Economica;488;5;3;5;4;5;2;5;19;satisfecho
+11809;M;Frecuente;68;Personal;MuyEconomicanomica;429;1;4;1;1;1;1;1;4;neutro o insatisfecho
+111080;F;Frecuente;57;Personal;Economica;197;3;4;5;5;5;5;4;26;neutro o insatisfecho
+105196;M;Frecuente;54;Negocios;MuyEconomicanomica;281;2;5;2;2;2;2;2;34;neutro o insatisfecho
+72043;M;Frecuente;30;Negocios;Ejecutiva;2556;1;1;4;4;4;5;4;25;satisfecho
+67388;M;Esporadico;20;Negocios;Ejecutiva;769;5;4;5;5;5;3;5;21;satisfecho
+2642;M;Frecuente;31;Negocios;Ejecutiva;597;1;1;3;3;3;4;3;10;satisfecho
+15366;F;Frecuente;38;Negocios;Economica;433;2;3;2;2;2;1;2;0;satisfecho
+63819;M;Esporadico;8;Negocios;Economica;1192;3;3;3;5;3;1;3;0;neutro o insatisfecho
+52226;M;Frecuente;24;Negocios;Ejecutiva;3705;4;4;4;4;4;1;4;0;satisfecho
+53885;F;Frecuente;34;Personal;Economica;191;4;4;2;2;2;3;2;25;neutro o insatisfecho
+55622;M;Frecuente;46;Negocios;Ejecutiva;1824;1;1;2;4;4;4;4;0;satisfecho
+110105;F;Esporadico;37;Negocios;Ejecutiva;882;3;3;5;5;5;3;5;0;satisfecho
+75870;F;Frecuente;58;Negocios;Ejecutiva;1972;3;3;3;5;5;5;4;0;satisfecho
+106114;M;Frecuente;40;Negocios;Ejecutiva;2095;3;3;4;5;4;4;5;0;satisfecho
+96510;M;Frecuente;61;Personal;Economica;436;3;5;5;5;5;4;5;28;neutro o insatisfecho
+57604;M;Esporadico;20;Negocios;Economica;563;4;0;5;5;5;4;5;11;satisfecho
+65910;F;Frecuente;49;Negocios;Economica;569;1;3;2;3;1;1;3;0;neutro o insatisfecho
+83815;M;Frecuente;46;Negocios;Ejecutiva;425;4;4;2;5;5;5;4;0;satisfecho
+68290;F;Frecuente;19;Personal;Economica;806;1;3;1;1;1;4;1;0;neutro o insatisfecho
+49223;F;Frecuente;50;Negocios;Economica;109;5;1;4;1;5;5;2;0;satisfecho
+113522;M;Frecuente;43;Negocios;Ejecutiva;407;2;2;5;4;5;5;5;5;satisfecho
+18447;M;Frecuente;39;Negocios;Ejecutiva;127;2;5;5;4;2;2;3;0;neutro o insatisfecho
+43280;M;Esporadico;20;Negocios;Economica;463;4;2;3;2;3;2;3;0;neutro o insatisfecho
+30932;M;Frecuente;34;Negocios;Ejecutiva;3278;4;4;2;1;4;4;5;0;satisfecho
+66012;F;Frecuente;47;Negocios;Ejecutiva;2759;4;4;4;4;5;5;3;0;satisfecho
+101179;M;Frecuente;63;Personal;Economica;1069;4;5;4;5;4;3;4;37;satisfecho
+112610;M;Frecuente;39;Negocios;Ejecutiva;239;3;3;3;2;4;4;4;0;satisfecho
+4403;F;Frecuente;10;Negocios;MuyEconomicanomica;618;2;5;2;3;2;4;2;0;neutro o insatisfecho
+16197;M;Frecuente;53;Personal;Economica;277;4;4;5;4;5;2;5;12;satisfecho
+59728;F;Frecuente;59;Personal;MuyEconomicanomica;964;3;1;5;3;4;4;1;0;neutro o insatisfecho
+44057;F;Esporadico;28;Negocios;MuyEconomicanomica;296;4;4;5;5;5;5;5;0;neutro o insatisfecho
+21590;F;Esporadico;27;Negocios;Economica;780;4;4;3;4;3;5;3;0;neutro o insatisfecho
+126742;F;Esporadico;35;Negocios;Economica;2370;3;3;2;2;2;3;2;2;neutro o insatisfecho
+28382;M;Esporadico;22;Negocios;Economica;763;3;3;1;1;1;2;1;0;neutro o insatisfecho
+120181;M;Frecuente;52;Negocios;Ejecutiva;1927;3;3;3;4;2;2;3;75;satisfecho
+50516;M;Frecuente;14;Personal;Economica;109;5;0;5;2;5;3;5;26;satisfecho
+41066;M;Frecuente;42;Negocios;Ejecutiva;3521;3;2;2;3;4;4;3;0;neutro o insatisfecho
+105888;Female;Esporadico;27;Negocios;Ejecutiva;283;0;0;3;3;3;3;3;51;satisfecho
+34808;M;Frecuente;13;Personal;Economica;301;1;5;5;5;5;3;5;0;neutro o insatisfecho
+9656;M;Esporadico;25;Negocios;Ejecutiva;277;2;4;3;1;3;1;3;0;neutro o insatisfecho
+84538;M;Esporadico;8;Negocios;Economica;1319;2;2;1;1;1;1;1;0;neutro o insatisfecho
+92555;F;Frecuente;25;Personal;Economica;1947;3;5;3;3;3;3;3;6;neutro o insatisfecho
+62051;M;Frecuente;51;Personal;Economica;2475;2;3;1;1;1;4;1;0;neutro o insatisfecho
+9137;M;Esporadico;12;Negocios;Economica;826;2;2;5;5;5;2;5;69;neutro o insatisfecho
+40339;M;Frecuente;62;Personal;MuyEconomicanomica;436;2;4;5;5;5;3;5;0;neutro o insatisfecho
+113487;M;Frecuente;50;Negocios;Ejecutiva;414;4;4;3;4;5;5;4;16;satisfecho
+97306;F;Esporadico;29;Negocios;Economica;872;4;4;3;5;3;3;3;0;neutro o insatisfecho
+55127;M;Frecuente;20;Personal;Economica;1379;3;1;3;4;3;4;3;29;neutro o insatisfecho
+111026;M;Frecuente;63;Negocios;Economica;268;3;5;3;3;3;-1;3;8;neutro o insatisfecho
+81360;M;Frecuente;65;Personal;Economica;1299;3;4;2;2;2;4;2;0;neutro o insatisfecho
+28147;M;Frecuente;61;Negocios;Economica;933;1;1;1;1;1;3;1;0;neutro o insatisfecho
+58110;M;Frecuente;18;Personal;Economica;612;1;4;1;1;1;4;1;15;neutro o insatisfecho
+119359;M;Frecuente;53;Personal;Economica;2089;1;1;5;5;5;4;5;4;neutro o insatisfecho
+121272;F;Esporadico;38;Negocios;Ejecutiva;2075;2;2;1;1;1;4;1;17;neutro o insatisfecho
+2067;M;Frecuente;56;Negocios;Ejecutiva;1593;4;5;4;5;3;3;3;17;satisfecho
+71274;F;Frecuente;66;Personal;Economica;733;4;2;3;3;5;5;4;23;neutro o insatisfecho
+74731;F;Frecuente;37;Personal;Economica;1205;4;1;3;3;3;3;3;4;neutro o insatisfecho
+90067;M;Frecuente;52;Negocios;Ejecutiva;957;2;2;4;5;3;3;4;0;satisfecho
+17581;M;Frecuente;22;Personal;Economica;1034;2;4;5;5;5;5;5;0;neutro o insatisfecho
+61225;M;Frecuente;60;Negocios;Ejecutiva;862;5;5;3;5;5;5;5;3;satisfecho
+80609;F;Frecuente;55;Negocios;Ejecutiva;236;3;3;3;4;5;5;4;0;satisfecho
+78728;F;Esporadico;42;Negocios;Ejecutiva;432;3;3;5;5;5;5;5;17;neutro o insatisfecho
+42279;F;Esporadico;27;Negocios;Economica;451;2;2;1;1;1;4;1;68;neutro o insatisfecho
+108570;M;Esporadico;20;Negocios;Economica;696;3;3;300;3;3;4;3;0;neutro o insatisfecho
+87650;F;Frecuente;47;Negocios;Ejecutiva;606;1;1;2;5;4;4;5;2;satisfecho
+118256;F;Esporadico;30;Negocios;Economica;1328;2;2;4;4;4;3;4;0;neutro o insatisfecho
+19707;M;Esporadico;36;Negocios;Economica;409;1;2;2;2;2;1;2;0;neutro o insatisfecho
+49631;M;Frecuente;37;Negocios;Ejecutiva;266;2;5;2;3;2;2;1;0;neutro o insatisfecho
+6605;M;Frecuente;41;Personal;Economica;618;2;3;4;4;4;2;4;0;neutro o insatisfecho
+33747;F;Frecuente;31;Negocios;MuyEconomicanomica;2277;5;1;5;5;5;5;5;0;satisfecho
+88023;Male;Esporadico;27;Negocios;Ejecutiva;404;0;0;5;3;5;4;5;62;satisfecho
+18633;F;Frecuente;48;Personal;Economica;190;3;5;3;4;1;1;4;0;neutro o insatisfecho
+61729;M;Frecuente;37;Negocios;Economica;1009;4;Cuatro;4;4;4;3;4;19;satisfecho
+104813;M;Frecuente;69;Personal;Economica;587;1;5;3;3;3;3;3;48;neutro o insatisfecho
+1542;M;Frecuente;32;Negocios;Ejecutiva;3443;1;4;1;1;1;4;1;36;neutro o insatisfecho
+32605;M;Frecuente;38;Negocios;Economica;216;2;4;2;2;2;2;2;0;neutro o insatisfecho
+63097;F;Esporadico;37;Negocios;Ejecutiva;967;2;2;4;4;4;3;4;0;neutro o insatisfecho
+38223;M;Frecuente;27;Personal;MuyEconomicanomica;1220;3;1;3;5;3;1;3;0;neutro o insatisfecho
+88398;M;Frecuente;47;Negocios;Ejecutiva;1734;4;4;2;4;5;5;3;5;satisfecho
+95433;M;Frecuente;34;Negocios;MuyEconomicanomica;277;1;0;3;3;3;2;3;0;neutro o insatisfecho
+31472;F;Esporadico;20;Negocios;Economica;967;2;2;1;1;1;4;1;70;neutro o insatisfecho
+61223;M;Frecuente;47;Negocios;Economica;967;4;5;3;3;3;1;3;23;neutro o insatisfecho
+109865;M;Frecuente;68;Negocios;Economica;1033;2;4;2;2;2;3;2;37;neutro o insatisfecho
+109552;M;Frecuente;21;Personal;Economica;992;2;5;5;5;5;5;5;20;neutro o insatisfecho
+47405;F;Frecuente;27;Negocios;Ejecutiva;2192;1;1;2;2;2;3;2;42;satisfecho
+10807;M;Frecuente;59;Negocios;Economica;224;2;2;2;2;2;2;2;116;neutro o insatisfecho
+20034;M;Frecuente;42;Negocios;Economica;607;4;2;4;4;4;4;4;74;neutro o insatisfecho
+12304;F;Esporadico;20;Negocios;Economica;192;2;0;3;3;3;1;3;27;neutro o insatisfecho
+126644;F;Frecuente;48;Negocios;Economica;602;2;3;4;4;2;2;3;0;neutro o insatisfecho
+125109;F;Frecuente;43;Negocios;Ejecutiva;1568;1;1;3;3;4;4;3;0;satisfecho
+85830;M;Frecuente;67;Personal;Economica;666;4;3;5;4;5;2;5;14;neutro o insatisfecho
+8219;F;Frecuente;20;Personal;Economica;402;3;5;4;4;4;4;4;0;neutro o insatisfecho
+98713;M;Frecuente;64;Negocios;MuyEconomicanomica;834;2;2;2;2;2;1;2;0;neutro o insatisfecho
+39005;F;Frecuente;43;Negocios;Ejecutiva;406;1;0;1;4;3;3;1;0;neutro o insatisfecho
+22572;M;Frecuente;38;Negocios;Ejecutiva;1833;2;2;5;5;4;4;2;4;satisfecho
+127782;F;Frecuente;53;Negocios;Ejecutiva;1037;2;4;4;2;2;2;2;0;neutro o insatisfecho
+29381;F;Frecuente;26;Negocios;Ejecutiva;2355;5;5;4;4;4;1;4;0;satisfecho
+123941;M;Frecuente;65;Personal;Economica;541;4;4;2;5;2;3;2;4;neutro o insatisfecho
+90953;F;Esporadico;28;Negocios;Economica;406;3;0;1;4;1;4;1;1;neutro o insatisfecho
+12945;F;Frecuente;20;Personal;Economica;456;3;5;4;4;4;4;4;0;neutro o insatisfecho
+119099;M;Frecuente;47;Negocios;Ejecutiva;1107;3;3;5;4;4;4;3;0;satisfecho
+101228;M;Frecuente;47;Negocios;Ejecutiva;2204;5;5;4;4;2;2;3;6;satisfecho
+126;M;Frecuente;66;Personal;Economica;562;2;5;5;5;5;3;5;88;neutro o insatisfecho
+111848;F;Frecuente;60;Negocios;Ejecutiva;628;2;2;3;5;4;4;3;4;satisfecho
+19533;M;Frecuente;36;Negocios;Ejecutiva;108;1;3;3;3;3;3;4;40;neutro o insatisfecho
+56453;F;Frecuente;63;Personal;Economica;719;1;4;4;5;5;5;5;0;neutro o insatisfecho
+44688;Female;Esporadico;56;Negocios;Economica;67;2;0;3;3;3;3;3;0;neutro o insatisfecho
+109543;F;Frecuente;30;Personal;Economica;861;4;1;4;4;4;3;4;26;neutro o insatisfecho
+76260;M;Frecuente;60;Personal;MuyEconomicanomica;1399;5;4;4;4;4;1;4;0;satisfecho
+78855;F;Frecuente;39;Personal;MuyEconomicanomica;432;3;4;2;2;2;5;2;0;neutro o insatisfecho
+117811;F;Esporadico;55;Negocios;Economica;328;1;4;3;2;3;2;3;0;neutro o insatisfecho
+65168;F;Frecuente;57;Personal;Economica;224;5;2;1;3;5;5;4;0;satisfecho
+27196;F;Frecuente;29;Negocios;Economica;2182;4;5;4;4;4;3;4;0;neutro o insatisfecho
+49040;F;Esporadico;26;Negocios;Economica;158;2;0;1;1;1;4;1;0;neutro o insatisfecho
+80144;F;Frecuente;29;Negocios;Ejecutiva;2586;1;1;5;5;4;2;5;16;satisfecho
+122457;M;Esporadico;24;Negocios;Economica;575;5;0;4;4;4;5;4;0;satisfecho
+83393;M;Frecuente;48;Negocios;Ejecutiva;1697;3;3;2;4;4;4;3;6;satisfecho
+48806;M;Frecuente;30;Personal;Ejecutiva;262;1;2;2;2;2;3;2;23;neutro o insatisfecho
+46569;M;Frecuente;47;Negocios;Ejecutiva;2848;3;3;5;3;5;5;5;54;satisfecho
+71272;M;Frecuente;22;Personal;Economica;733;5;1;4;5;4;2;4;1;satisfecho
+82785;M;Esporadico;57;Negocios;Ejecutiva;231;1;1;3;3;3;2;3;37;neutro o insatisfecho
+105498;F;Frecuente;61;Personal;Economica;516;1;3;3;2;3;3;1;10;neutro o insatisfecho
+24558;M;Frecuente;28;Negocios;Ejecutiva;3522;3;2;3;3;3;4;3;6;neutro o insatisfecho
+92210;F;Frecuente;12;Personal;Economica;1979;1;2;4;4;4;2;4;4;neutro o insatisfecho
+64051;M;Frecuente;47;Negocios;Ejecutiva;1651;2;2;5;4;5;5;3;0;satisfecho
+98424;M;Frecuente;56;Negocios;Ejecutiva;1910;1;1;4;4;5;5;3;59;satisfecho
+15862;F;Frecuente;52;Negocios;Ejecutiva;2858;4;4;4;4;4;4;5;0;satisfecho
+126059;F;Frecuente;41;Negocios;Ejecutiva;3615;1;1;4;5;5;5;5;0;satisfecho
+91140;M;Frecuente;48;Personal;Economica;594;4;1;2;2;2;1;2;7;neutro o insatisfecho
+129356;F;Frecuente;8;Negocios;Ejecutiva;2475;1;1;5;5;5;5;5;1;satisfecho
+32362;M;Frecuente;63;Negocios;Economica;216;5;1;5;5;5;4;5;0;satisfecho
+30315;F;Frecuente;38;Negocios;Ejecutiva;391;2;2;1;1;5;5;5;12;satisfecho
+21193;F;Frecuente;33;Negocios;Economica;192;4;2;4;4;1;5;4;293;satisfecho
+94054;M;Frecuente;57;Negocios;Ejecutiva;3166;0;0;3;5;4;4;3;66;satisfecho
+50519;F;Frecuente;34;Personal;Economica;78;2;5;4;4;4;4;4;127;neutro o insatisfecho
+16840;F;Frecuente;66;Personal;Economica;645;3;1;2;4;3;3;4;0;neutro o insatisfecho
+52113;M;Frecuente;56;Personal;Economica;438;1;3;3;3;3;1;3;0;neutro o insatisfecho
+87228;M;Frecuente;50;Negocios;Ejecutiva;3880;1;1;3;4;4;4;4;36;satisfecho
+55209;M;Frecuente;39;Negocios;Ejecutiva;2873;1;1;3;5;5;5;5;8;satisfecho
+23765;Male;Esporadico;41;Negocios;Ejecutiva;374;4;4;3;3;3;4;3;31;satisfecho
+74022;F;Esporadico;16;Negocios;Economica;1333;5;5;3;3;3;3;3;0;satisfecho
+74632;F;Esporadico;39;Negocios;Economica;771;3;3;5;1;5;3;5;0;neutro o insatisfecho
+68817;M;Frecuente;28;Negocios;MuyEconomicanomica;926;1;1;1;1;1;3;1;57;neutro o insatisfecho
+83590;F;Frecuente;40;Negocios;Ejecutiva;2786;3;3;2;4;3;3;5;0;satisfecho
+58749;F;Esporadico;52;Negocios;Ejecutiva;864;5;5;2;2;2;4;2;0;satisfecho
+25701;M;Frecuente;61;Negocios;Economica;447;5;2;5;5;5;1;5;0;satisfecho
+81749;F;Frecuente;39;Negocios;Ejecutiva;3228;5;5;5;5;5;5;5;0;satisfecho
+117285;F;Frecuente;54;Negocios;Ejecutiva;325;0;0;4;5;4;4;3;3;satisfecho
+54183;F;Frecuente;49;Negocios;Ejecutiva;1000;2;3;1;4;2;2;4;0;neutro o insatisfecho
+11496;F;Frecuente;44;Personal;MuyEconomicanomica;667;4;4;5;5;3;3;3;7;neutro o insatisfecho
+48791;F;Esporadico;37;Negocios;Ejecutiva;421;3;3;4;5;4;4;4;3;neutro o insatisfecho
+18091;M;Frecuente;44;Negocios;MuyEconomicanomica;488;2;3;2;2;2;4;2;0;satisfecho
+63013;F;Frecuente;37;Negocios;Economica;967;2;1;2;2;2;4;2;0;neutro o insatisfecho
+18506;M;Esporadico;27;Negocios;Economica;201;3;0;4;1;4;3;4;18;neutro o insatisfecho
+56921;M;Frecuente;59;Negocios;Ejecutiva;2565;2;2;4;4;3;4;4;9;satisfecho
+548;F;Esporadico;55;Negocios;Ejecutiva;134;3;3;3;4;3;4;3;0;neutro o insatisfecho
+127128;F;Frecuente;33;Personal;Economica;370;5;5;1;1;1;2;1;0;satisfecho
+43734;M;Esporadico;40;Negocios;Economica;294;4;0;5;5;5;4;5;0;satisfecho
+120033;F;Frecuente;63;Personal;MuyEconomicanomica;511;5;5;3;5;3;3;4;9;satisfecho
+103645;F;Frecuente;55;Negocios;Ejecutiva;405;5;5;4;5;4;4;3;0;satisfecho
+62797;F;Frecuente;67;Personal;Economica;2447;1;3;1;3;2;1;3;282;neutro o insatisfecho
+58095;F;Frecuente;15;Negocios;Ejecutiva;2581;2;1;2;2;2;4;2;17;neutro o insatisfecho
+86111;M;Frecuente;42;Negocios;Ejecutiva;356;5;5;5;4;5;5;5;0;satisfecho
+113633;M;Frecuente;60;Personal;Economica;407;2;4;1;1;1;1;1;14;neutro o insatisfecho
+73691;M;Esporadico;20;Negocios;Ejecutiva;204;4;0;4;4;4;3;4;0;satisfecho
+9725;F;Frecuente;45;Negocios;Ejecutiva;3512;5;5;5;5;5;5;4;0;satisfecho
+120002;F;Frecuente;55;Negocios;Ejecutiva;328;5;5;3;4;5;5;4;0;satisfecho
+85834;M;Frecuente;33;Personal;Economica;666;1;4;3;3;3;4;3;0;neutro o insatisfecho
+97795;M;Frecuente;28;Personal;Economica;471;2;5;2;2;2;5;2;21;neutro o insatisfecho
+107583;M;Frecuente;44;Personal;MuyEconomicanomica;1521;3;5;3;3;3;4;3;3;neutro o insatisfecho
+113934;M;Frecuente;24;Personal;Ejecutiva;1728;3;3;2;2;2;3;2;2;neutro o insatisfecho
+123465;F;Frecuente;34;Negocios;Ejecutiva;2077;2;2;2;4;4;4;5;6;satisfecho
+40174; ;Frecuente;43;Negocios;Ejecutiva;2934;4;4;5;5;4;4;5;0;satisfecho
+21260;M;Frecuente;68;Personal;Ejecutiva;903;3;5;1;3;1;1;2;82;neutro o insatisfecho
+57861;M;Frecuente;33;Personal;Economica;2329;3;5;3;4;3;5;4;0;neutro o insatisfecho
+109122;M;Frecuente;41;Personal;MuyEconomicanomica;781;1;5;3;3;3;3;3;5;neutro o insatisfecho
+105820;M;Frecuente;12;Personal;Economica;787;1;5;5;5;5;5;5;21;neutro o insatisfecho
+39561;F;Frecuente;31;Negocios;Ejecutiva;3582;2;2;5;5;5;4;5;0;satisfecho
+100386;M;Frecuente;66;Personal;Economica;1034;3;4;2;2;2;4;2;22;neutro o insatisfecho
+122615;M;Frecuente;44;Personal;Economica;728;3;1;4;4;4;1;4;1;neutro o insatisfecho
+874;M;Esporadico;20;Negocios;Ejecutiva;134;0;0;3;3;3;3;3;66;satisfecho
+1814;F;Frecuente;71;Negocios;Economica;500;3;4;4;4;3;3;3;0;neutro o insatisfecho
+105561;M;Frecuente;47;Negocios;Ejecutiva;1528;1;1;3;5;5;5;4;20;satisfecho
+125258;F;Frecuente;80;Negocios;MuyEconomicanomica;427;1;3;3;2;1;1;2;4;neutro o insatisfecho
+40884;F;Frecuente;57;Personal;Economica;584;3;4;2;4;4;4;4;0;neutro o insatisfecho
+51928;M;Frecuente;51;Negocios;Ejecutiva;936;4;5;5;3;4;4;1;12;neutro o insatisfecho
+43177;M;Frecuente;63;Negocios;Economica;282;5;4;5;5;5;5;5;0;satisfecho
+8807;F;Frecuente;46;Negocios;Economica;552;3;4;4;4;3;3;3;0;neutro o insatisfecho
+90022;M;Esporadico;18;Negocios;Economica;957;4;4;2;1;2;4;2;0;satisfecho
+114019;M;Frecuente;51;Personal;Economica;1728;4;5;4;4;4;5;4;0;satisfecho
+110885;F;Frecuente;55;Negocios;Economica;406;4;3;4;3;4;4;1;10;neutro o insatisfecho
+66335;M;Esporadico;54;Negocios;Ejecutiva;986;1;1;1;1;1;5;1;0;neutro o insatisfecho
+7720;F;Frecuente;59;Negocios;Ejecutiva;3490;2;2;4;4;5;5;3;0;satisfecho
+78333;F;Frecuente;24;Negocios;Ejecutiva;1547;2;2;4;4;4;3;4;0;satisfecho
+102121;F;Esporadico;20;Negocios;Ejecutiva;236;0;0;1;1;1;4;1;6;satisfecho
+18246;F;Frecuente;62;Negocios;Ejecutiva;346;4;2;5;3;4;4;4;1;neutro o insatisfecho
+115148;F;Esporadico;21;Negocios;Economica;337;2;1;2;2;4;2;2;137;neutro o insatisfecho
+121244;F;Frecuente;32;Negocios;Ejecutiva;2075;3;3;4;4;4;5;4;0;satisfecho
+14446;M;Esporadico;40;Negocios;Economica;674;4;4;5;5;5;2;5;42;neutro o insatisfecho
+4511;M;Frecuente;36;Personal;Economica;551;2;5;4;4;4;2;4;0;neutro o insatisfecho
+118207;F;Frecuente;53;Personal;Economica;1444;2;4;4;3;4;4;1;1;neutro o insatisfecho
+57953;F;Frecuente;49;Negocios;Economica;1062;3;2;2;3;3;3;2;48;neutro o insatisfecho
+92955;F;Frecuente;47;Negocios;MuyEconomicanomica;134;3;3;4;3;3;3;2;13;neutro o insatisfecho
+89620;M;Esporadico;45;Negocios;Ejecutiva;1096;4;4;3;3;3;5;3;18;satisfecho
+34167; ;Frecuente;49;Negocios;Ejecutiva;1189;4;2;2;4;4;4;3;8;neutro o insatisfecho
+106108;M;Esporadico;47;Negocios;Ejecutiva;436;5;5;2;2;2;5;2;19;satisfecho
+51865;M;Frecuente;31;Personal;Economica;522;1;1;2;2;2;4;2;16;neutro o insatisfecho
+18208;M;Frecuente;30;Negocios;Ejecutiva;179;3;3;5;4;5;1;5;0;satisfecho
+2868;F;Esporadico;25;Negocios;Economica;475;2;3;3;4;3;-1;3;37;neutro o insatisfecho
+49427;M;Esporadico;41;Negocios;Economica;373;3;5;5;5;5;4;5;24;neutro o insatisfecho
+64820;F;Frecuente;30;Negocios;Ejecutiva;3218;2;2;2;2;2;1;2;16;neutro o insatisfecho
+75586;F;Frecuente;44;Negocios;Ejecutiva;337;2;3;5;3;2;2;2;0;neutro o insatisfecho
+7710;F;Frecuente;52;Negocios;MuyEconomicanomica;604;3;1;2;3;3;3;1;0;neutro o insatisfecho
+74686;M;Frecuente;43;Personal;Economica;1171;4;4;5;5;5;5;5;0;neutro o insatisfecho
+71076;F;Frecuente;60;Personal;Economica;802;4;3;2;2;4;4;1;32;neutro o insatisfecho
+89544;F;Frecuente;58;Negocios;Ejecutiva;1515;2;2;2;5;4;4;4;32;satisfecho
+90518;F;Frecuente;55;Negocios;Ejecutiva;2159;5;5;3;5;5;5;5;0;satisfecho
+66324;F;Frecuente;20;Personal;Economica;852;1;4;3;2;3;5;3;0;neutro o insatisfecho
+57485;M;Frecuente;11;Personal;Economica;1589;3;4;1;1;1;5;1;101;neutro o insatisfecho
+59894;F;Frecuente;41;Negocios;Ejecutiva;997;4;4;4;4;5;5;3;0;satisfecho
+44041;M;Frecuente;45;Negocios;Economica;287;1;4;1;1;1;2;1;0;neutro o insatisfecho
+98835;M;Frecuente;65;Personal;Economica;444;1;5;1;4;4;3;4;146;neutro o insatisfecho
+67568;F;Esporadico;25;Negocios;Ejecutiva;1171;4;4;4;4;4;5;4;21;neutro o insatisfecho
+101751;F;Frecuente;48;Negocios;Ejecutiva;1590;2;2;3;4;3;3;4;0;satisfecho
+48628;F;Frecuente;70;Negocios;Ejecutiva;109;3;3;2;4;4;4;4;3;satisfecho
+45006;M;Esporadico;22;Negocios;Ejecutiva;222;0;0;1;1;1;5;1;0;satisfecho
+43980;M;Frecuente;53;Negocios;Economica;411;4;5;4;4;4;2;4;0;satisfecho
+70669;M;Esporadico;20;Negocios;Economica;447;1;4;2;2;2;5;2;0;neutro o insatisfecho
+7108;F;Frecuente;46;Personal;Economica;157;3;4;4;4;4;4;4;0;neutro o insatisfecho
+9476;M;Frecuente;47;Personal;MuyEconomicanomica;288;1;4;3;1;3;5;3;34;neutro o insatisfecho
+17158;F;Esporadico;26;Negocios;Economica;643;1;1;1;2;1;4;1;0;neutro o insatisfecho
+21168;M;Frecuente;48;Negocios;Ejecutiva;2578;2;1;2;3;2;2;1;0;neutro o insatisfecho
+110663;M;Frecuente;32;Negocios;Ejecutiva;829;2;2;2;2;2;3;2;54;neutro o insatisfecho
+117081;M;Frecuente;58;Negocios;Ejecutiva;1747;1;3;5;2;1;1;2;29;neutro o insatisfecho
+126727;F;Frecuente;56;Negocios;Ejecutiva;2521;5;5;4;5;4;4;5;0;satisfecho
+101506;F;Esporadico;44;Negocios;Economica;345;3;3;2;2;2;2;2;73;neutro o insatisfecho
+90871; ;Esporadico;25;Negocios;Economica;240;3;3;4;4;4;3;4;0;neutro o insatisfecho
+5687;F;Frecuente;41;Negocios;Economica;196;3;1;3;3;3;3;3;6;neutro o insatisfecho
+91700;F;Frecuente;30;Negocios;Ejecutiva;2670;2;2;4;4;4;4;4;0;satisfecho
+95852;M;Esporadico;27;Negocios;Ejecutiva;580;4;4;3;3;3;3;3;16;satisfecho
+114735;M;Frecuente;58;Negocios;Ejecutiva;325;2;2;2;4;4;4;5;4;satisfecho
+26266;M;Frecuente;32;Negocios;Ejecutiva;859;3;1;3;3;3;2;3;0;neutro o insatisfecho
+23907;M;Esporadico;27;Negocios;Economica;589;1;3;5;5;5;2;5;0;neutro o insatisfecho
+8777;M;Frecuente;44;Negocios;Ejecutiva;552;4;4;2;5;3;3;4;5;satisfecho
+21480;F;Frecuente;38;Negocios;Economica;331;2;1;2;2;2;4;2;65;neutro o insatisfecho
+20530;F;Frecuente;42;Negocios;Economica;533;4;5;4;3;3;3;2;0;satisfecho
+122590;M;Frecuente;44;Negocios;Ejecutiva;2651;3;3;4;5;4;4;3;0;satisfecho
+62850;M;Frecuente;53;Personal;Ejecutiva;2218;2;1;3;2;3;3;4;3;neutro o insatisfecho
+99770;M;Frecuente;62;Negocios;MuyEconomicanomica;255;2;5;2;2;2;2;2;8;neutro o insatisfecho
+73559;M;Frecuente;38;Negocios;Ejecutiva;1994;0;5;4;4;1;1;4;1;satisfecho
+57222;M;Frecuente;54;Personal;Economica;1514;1;5;5;5;5;1;5;4;neutro o insatisfecho
+21234;M;Frecuente;35;Personal;Economica;192;3;2;1;1;1;1;1;25;neutro o insatisfecho
+16567;M;Esporadico;21;Negocios;Economica;872;3;3;3;3;3;2;3;0;neutro o insatisfecho
+67370;F;Frecuente;50;Negocios;Ejecutiva;592;4;4;4;5;4;4;5;0;satisfecho
+74399;F;Frecuente;45;Negocios;Ejecutiva;1431;2;2;5;5;5;5;5;8;satisfecho
+67640;M;Frecuente;57;Negocios;Ejecutiva;1464;4;4;2;4;5;5;3;0;satisfecho
+32245;F;Frecuente;31;Negocios;Ejecutiva;101;1;1;4;5;4;4;4;0;satisfecho
+1908;M;Esporadico;46;Negocios;Ejecutiva;383;4;4;3;2;3;5;3;25;satisfecho
+76179;F;Esporadico;34;Negocios;Ejecutiva;2422;3;3;1;1;1;4;1;16;neutro o insatisfecho
+30170;M;Frecuente;64;Personal;Economica;261;4;3;1;1;1;2;1;3;neutro o insatisfecho
+36167;M;Frecuente;53;Negocios;Economica;1674;3;1;3;3;3;-1;3;7;neutro o insatisfecho
+104484;M;Frecuente;44;Negocios;Ejecutiva;1730;2;2;4;5;3;3;4;0;satisfecho
+101962;M;Frecuente;18;Negocios;Ejecutiva;3108;3;5;3;3;3;2;3;4;neutro o insatisfecho
+121168;F;Frecuente;59;Personal;Economica;2370;4;4;4;1;3;5;1;0;satisfecho
+117347;F;Frecuente;43;Negocios;Ejecutiva;296;3;3;5;4;5;5;3;3;satisfecho
+71122;F;Frecuente;47;Negocios;Ejecutiva;1739;5;5;2;4;5;5;5;0;satisfecho
+68867;F;Frecuente;63;Negocios;Ejecutiva;3252;2;1;5;3;2;2;3;0;neutro o insatisfecho
+23745;F;Esporadico;19;Negocios;Economica;1048;5;5;4;4;4;3;4;0;satisfecho
+3380; ;Frecuente;18;Negocios;Ejecutiva;296;1;5;1;1;1;4;1;0;neutro o insatisfecho
+5570;M;Frecuente;54;Personal;Economica;588;3;2;4;4;4;2;4;45;neutro o insatisfecho
+19692;M;Frecuente;42;Negocios;Ejecutiva;475;4;4;1;5;4;4;2;44;satisfecho
+35878;F;Frecuente;23;Personal;Economica;1023;3;5;2;2;2;3;2;69;neutro o insatisfecho
+104707;F;Frecuente;19;Negocios;MuyEconomicanomica;159;3;Cuatro;3;3;3;3;3;0;neutro o insatisfecho
+2741;M;Esporadico;39;Negocios;Ejecutiva;772;3;3;3;3;3;1;3;0;neutro o insatisfecho
+13594;F;Frecuente;58;Personal;Economica;152;2;4;4;4;1;1;5;0;neutro o insatisfecho
+114033;M;Esporadico;24;Negocios;Ejecutiva;512;5;0;2;2;2;5;2;0;satisfecho
+76080;M;Frecuente;23;Negocios;Economica;707;2;4;2;1;2;4;2;0;neutro o insatisfecho
+44906;M;Frecuente;22;Negocios;Ejecutiva;3174;3;3;4;4;4;1;4;0;satisfecho
+79013;M;Frecuente;39;Negocios;Ejecutiva;2272;3;5;4;4;3;3;2;0;neutro o insatisfecho
+83773;F;Frecuente;68;Personal;Economica;926;1;4;1;3;3;3;1;26;neutro o insatisfecho
+128230;F;Frecuente;62;Personal;Economica;602;1;3;3;2;4;4;2;0;neutro o insatisfecho
+69303;M;Esporadico;26;Negocios;Ejecutiva;944;5;5;4;3;4;5;4;0;satisfecho
+14370;F;Frecuente;24;Negocios;Ejecutiva;3235;3;3;5;5;5;4;5;0;satisfecho
+37203;M;Frecuente;62;Personal;MuyEconomicanomica;1237;3;4;1;1;1;3;1;0;neutro o insatisfecho
+38775;F;Frecuente;44;Negocios;Ejecutiva;2058;2;2;5;3;2;2;3;12;neutro o insatisfecho
+26717;F;Frecuente;69;Personal;Economica;581;1;5;4;4;2;2;3;0;neutro o insatisfecho
+73767;M;Frecuente;25;Personal;Economica;192;4;5;3;3;3;3;3;26;neutro o insatisfecho
+61539;F;Frecuente;14;Personal;Economica;2358;1;4;3;3;3;4;3;0;neutro o insatisfecho
+346;M;Frecuente;68;Personal;Economica;853;1;2;4;4;4;1;4;27;neutro o insatisfecho
+82502;F;Frecuente;53;Negocios;Ejecutiva;1749;2;2;5;5;5;5;5;58;satisfecho
+70416;M;Frecuente;29;Negocios;MuyEconomicanomica;1562;2;3;2;2;2;3;2;0;neutro o insatisfecho
+70879;F;Frecuente;58;Personal;MuyEconomicanomica;761;2;4;4;5;3;3;4;0;neutro o insatisfecho
+101035;F;Frecuente;58;Personal;MuyEconomicanomica;806;3;4;5;4;5;5;1;76;neutro o insatisfecho
+108815;F;Frecuente;44;Negocios;Ejecutiva;3790;5;5;5;5;3;3;5;0;satisfecho
+84930;F;Frecuente;54;Personal;Economica;547;4;4;4;4;5;5;4;0;satisfecho
+121878;F;Frecuente;35;Negocios;Ejecutiva;366;2;2;3;3;5;5;1;0;satisfecho
+83319;F;Frecuente;9;Personal;Economica;1671;5;1;1;1;1;2;1;0;satisfecho
+20373;F;Frecuente;28;Personal;Economica;265;3;1;2;2;2;3;2;49;neutro o insatisfecho
+56763;F;Esporadico;39;Negocios;Ejecutiva;997;3;3;2;2;2;3;2;0;neutro o insatisfecho
+74823;M;Frecuente;30;Personal;MuyEconomicanomica;1205;5;2;4;4;4;2;4;0;satisfecho
+83273; ;Frecuente;27;Personal;Economica;1979;5;5;4;4;4;5;4;0;satisfecho
+68146;M;Frecuente;44;Negocios;Ejecutiva;2670;1;1;4;5;5;5;5;0;satisfecho
+38065;M;Frecuente;48;Negocios;Ejecutiva;3783;2;2;1;4;2;2;2;0;neutro o insatisfecho
+115029;M;Esporadico;23;Negocios;Economica;447;1;5;5;5;5;5;5;0;neutro o insatisfecho
+108162;F;Frecuente;19;Personal;Economica;1166;3;5;3;3;3;5;3;13;neutro o insatisfecho
+105936;M;Esporadico;21;Negocios;Economica;909;1;1;1;2;1;2;1;1;neutro o insatisfecho
+40999;F;Frecuente;22;Negocios;Ejecutiva;1362;1;1;3;3;3;3;3;0;satisfecho
+97233;M;Esporadico;24;Negocios;Economica;296;3;5;1;2;1;4;1;36;neutro o insatisfecho
+100014;M;Frecuente;58;Negocios;Ejecutiva;277;3;3;4;4;5;5;3;0;satisfecho
+125899;M;Frecuente;70;Personal;Economica;861;2;5;4;4;4;4;4;3;neutro o insatisfecho
+47753;F;Frecuente;45;Negocios;Ejecutiva;3661;4;4;2;4;5;5;3;67;satisfecho
+70889;F;Frecuente;23;Personal;Ejecutiva;1721;2;5;2;5;2;3;2;0;neutro o insatisfecho
+8129;F;Frecuente;48;Negocios;Ejecutiva;3563;5;5;5;5;4;4;5;0;satisfecho
+61438;M;Frecuente;43;Negocios;Ejecutiva;2288;2;2;2;4;3;3;3;1;satisfecho
+75056;M;Frecuente;18;Personal;Economica;1592;1;4;1;1;1;3;1;0;neutro o insatisfecho
+73072;M;Esporadico;20;Negocios;Economica;1085;3;3;4;4;4;4;4;0;neutro o insatisfecho
+35295;M;Frecuente;45;Negocios;Economica;1102;4;3;4;4;4;5;4;3;satisfecho
+105529;F;Esporadico;22;Negocios;Economica;611;2;0;3;3;3;5;3;0;neutro o insatisfecho
+51021;F;Frecuente;7;Personal;Economica;77;1;3;4;4;4;4;4;0;neutro o insatisfecho
+118679;F;Frecuente;56;Negocios;Ejecutiva;368;2;5;5;3;2;2;2;35;neutro o insatisfecho
+761;M;Frecuente;48;Negocios;Ejecutiva;3447;0;0;2;5;5;5;3;0;satisfecho
+3127;M;Frecuente;22;Negocios;MuyEconomicanomica;1013;2;5;2;1;2;3;2;0;neutro o insatisfecho
+37291;F;Frecuente;40;Negocios;Economica;1011;4;2;4;4;4;4;4;60;satisfecho
+16255;F;Esporadico;29;Negocios;Economica;748;5;5;2;3;2;3;2;0;satisfecho
+19624;F;Frecuente;56;Negocios;Ejecutiva;1669;0;0;3;5;3;3;4;82;satisfecho
+50946;F;Frecuente;42;Personal;Economica;326;4;4;4;3;3;2;3;283;neutro o insatisfecho
+38882;F;Frecuente;19;Negocios;Ejecutiva;1784;5;5;4;4;4;4;4;0;satisfecho
+124968;F;Frecuente;40;Negocios;Ejecutiva;184;0;5;2;4;3;3;3;0;satisfecho
+19955;M;Frecuente;49;Negocios;MuyEconomicanomica;240;4;4;5;5;5;5;5;0;satisfecho
+84863;M;Frecuente;17;Negocios;Ejecutiva;3378;5;5;4;4;4;2;4;0;satisfecho
+27321;F;Frecuente;40;Negocios;Ejecutiva;2538;4;4;2;2;2;2;4;22;satisfecho
+24023;F;Frecuente;37;Negocios;Economica;562;2;4;2;2;2;4;2;27;neutro o insatisfecho
+21620;F;Frecuente;23;Negocios;Ejecutiva;3702;2;1;2;2;2;3;2;0;neutro o insatisfecho
+49177;F;Frecuente;44;Negocios;Ejecutiva;3285;0;0;3;3;3;3;1;0;satisfecho
+70185;F;Frecuente;49;Negocios;Ejecutiva;1562;0;0;3;4;3;3;4;3;satisfecho
+85224;M;Frecuente;45;Negocios;Ejecutiva;882;5;2;3;2;5;5;4;0;satisfecho
+90029;F;Esporadico;14;Negocios;Ejecutiva;1145;0;0;2;2;2;5;2;18;satisfecho
+128868;M;Esporadico;29;Negocios;Ejecutiva;1443;0;0;0;2;3;5;2;0;satisfecho
+35558;F;Frecuente;53;Personal;Economica;950;1;5;2;4;1;1;3;0;neutro o insatisfecho
+51485;F;Frecuente;46;Negocios;Ejecutiva;1953;3;4;4;3;3;3;1;0;neutro o insatisfecho
+15820;F;Frecuente;26;Negocios;MuyEconomicanomica;246;4;4;4;3;4;3;4;0;satisfecho
+125355;M;Esporadico;26;Negocios;Economica;599;1;2;5;5;5;1;5;94;neutro o insatisfecho
+61092;M;Frecuente;61;Personal;Economica;1506;2;5;4;4;4;3;4;9;neutro o insatisfecho
+87232;F;Esporadico;25;Negocios;Ejecutiva;946;2;0;4;4;4;5;4;0;neutro o insatisfecho
+125786;M;Frecuente;53;Negocios;Ejecutiva;3011;5;5;2;4;4;4;3;0;satisfecho
+13889;F;Frecuente;7;Personal;Economica;578;5;4;5;5;5;3;5;7;satisfecho
+117113;F;Esporadico;16;Negocios;Economica;304;0;0;3;3;3;4;3;3;satisfecho
+3452;M;Frecuente;10;Personal;Economica;315;4;5;3;2;3;3;3;0;neutro o insatisfecho
+49883;F;Esporadico;36;Negocios;Economica;326;3;4;1;1;1;2;1;0;neutro o insatisfecho
+19247;F;Frecuente;13;Personal;Economica;782;3;4;5;5;5;5;5;79;neutro o insatisfecho
+28487;F;Frecuente;29;Negocios;Ejecutiva;1739;1;5;1;1;1;2;1;6;neutro o insatisfecho
+93717;F;Frecuente;15;Negocios;Ejecutiva;2565;4;4;3;3;3;3;3;0;satisfecho
+45667;F;Frecuente;12;Personal;MuyEconomicanomica;260;1;3;4;4;4;3;4;0;neutro o insatisfecho
+70943;F;Frecuente;16;Personal;Economica;612;2;5;5;5;5;3;5;7;neutro o insatisfecho
+24159;M;Frecuente;45;Negocios;Ejecutiva;3511;0;4;1;5;3;3;4;0;satisfecho
+9942;F;Frecuente;21;Negocios;Ejecutiva;534;3;3;3;3;3;2;3;29;neutro o insatisfecho
+18740;M;Esporadico;26;Negocios;Ejecutiva;1167;1;1;4;4;4;1;4;0;neutro o insatisfecho
+12392;F;Frecuente;58;Negocios;Ejecutiva;1640;4;4;4;4;5;5;5;23;satisfecho
+25121;M;Frecuente;40;Personal;Economica;946;2;4;1;1;1;4;1;0;neutro o insatisfecho
+43715;F;Frecuente;16;Personal;Economica;257;1;2;2;2;2;2;2;0;neutro o insatisfecho
+95700;M;Esporadico;36;Negocios;Ejecutiva;237;2;3;5;5;5;3;5;6;neutro o insatisfecho
+124971;F;Esporadico;26;Negocios;Ejecutiva;184;2;1;4;4;4;5;4;26;neutro o insatisfecho
+59452;M;Frecuente;45;Negocios;Ejecutiva;3254;1;1;5;5;5;5;3;89;satisfecho
+2961;F;Frecuente;51;Personal;Economica;737;3;5;5;4;3;3;5;1;neutro o insatisfecho
+54942;F;Frecuente;59;Negocios;Ejecutiva;3707;2;2;5;4;2;2;2;6;neutro o insatisfecho
+64907; ;Frecuente;55;Negocios;Ejecutiva;2376;1;5;3;3;1;1;3;0;neutro o insatisfecho
+91209;F;Frecuente;44;Personal;Economica;404;3;4;2;3;3;3;1;7;neutro o insatisfecho
+97027;F;Esporadico;35;Negocios;Ejecutiva;883;3;3;3;3;3;5;3;0;neutro o insatisfecho
+19385;M;Esporadico;30;Negocios;Economica;844;1;1;300;3;3;3;3;19;neutro o insatisfecho
+113876;M;Frecuente;39;Personal;Economica;1592;3;4;3;3;3;2;3;0;neutro o insatisfecho
+20222;M;Esporadico;37;Negocios;Ejecutiva;228;5;5;4;4;4;2;4;0;satisfecho
+6778;M;Frecuente;53;Negocios;Ejecutiva;2442;4;4;3;4;5;5;4;0;satisfecho
+10388;F;Frecuente;49;Negocios;Ejecutiva;3822;4;4;3;5;5;5;4;0;satisfecho
+84651;F;Esporadico;29;Negocios;Ejecutiva;363;3;3;5;5;5;4;5;0;neutro o insatisfecho
+128555;F;Frecuente;49;Negocios;MuyEconomicanomica;647;3;1;1;3;3;3;2;0;neutro o insatisfecho
+3839;M;Frecuente;21;Personal;Economica;710;5;4;1;1;1;4;1;0;satisfecho
+62770;M;Esporadico;13;Negocios;Economica;2367;3;3;1;1;1;1;1;77;neutro o insatisfecho
+82610;F;Frecuente;37;Negocios;Ejecutiva;2783;4;3;2;3;4;4;4;3;satisfecho
+113059;M;Esporadico;50;Negocios;Ejecutiva;569;5;5;2;2;2;5;2;0;satisfecho
+79469;M;Frecuente;68;Personal;Economica;1183;1;5;3;3;3;5;3;37;neutro o insatisfecho
+104091;F;Frecuente;37;Negocios;Ejecutiva;2242;3;2;3;3;3;3;1;1;neutro o insatisfecho
+102714;F;Frecuente;33;Personal;Economica;365;4;5;3;1;3;3;3;13;satisfecho
+52527;F;Frecuente;40;Negocios;Economica;110;5;5;5;5;5;5;5;0;satisfecho
+110616;M;Frecuente;22;Negocios;Ejecutiva;727;1;1;4;4;4;5;4;25;satisfecho
+116802;F;Frecuente;38;Personal;MuyEconomicanomica;325;2;1;5;5;5;3;5;0;neutro o insatisfecho
+110592;F;Frecuente;17;Personal;Economica;674;5;4;5;5;5;4;5;29;satisfecho
+124225;F;Frecuente;57;Negocios;Ejecutiva;1916;3;3;4;3;3;3;2;0;neutro o insatisfecho
+129765;M;Frecuente;21;Personal;Economica;308;4;3;3;3;3;3;3;0;satisfecho
+83343;M;Frecuente;20;Negocios;Ejecutiva;187;5;5;4;5;4;3;4;0;satisfecho
+89685;M;Esporadico;36;Negocios;Economica;544;4;5;1;1;1;4;1;0;neutro o insatisfecho
+106271;F;Frecuente;41;Negocios;Ejecutiva;604;2;2;4;5;4;4;5;0;satisfecho
+62860;F;Frecuente;13;Negocios;Ejecutiva;2583;2;2;5;5;5;4;5;0;satisfecho
+78953;F;Esporadico;20;Negocios;Economica;356;2;0;4;4;4;4;4;0;neutro o insatisfecho
+48916;M;Esporadico;26;Negocios;Economica;89;2;4;3;3;3;5;3;11;neutro o insatisfecho
+73527;M;Esporadico;51;Negocios;Economica;594;4;1;5;5;5;1;5;0;neutro o insatisfecho
+78320;F;Frecuente;56;Negocios;Ejecutiva;1547;3;4;3;3;3;3;3;0;neutro o insatisfecho
+13602;M;Frecuente;48;Negocios;MuyEconomicanomica;227;4;3;4;4;4;2;4;0;satisfecho
+13507; ;Frecuente;24;Negocios;Ejecutiva;214;3;3;5;4;5;4;5;4;satisfecho
+22786;M;Frecuente;40;Negocios;Ejecutiva;147;5;5;1;2;4;4;3;4;satisfecho
+36689;F;Frecuente;65;Personal;Economica;1121;2;5;5;4;4;4;3;6;neutro o insatisfecho
+14244;F;Frecuente;34;Negocios;Ejecutiva;2974;4;2;5;4;4;4;4;0;satisfecho
+107196;F;Frecuente;19;Personal;Economica;668;3;5;2;2;2;3;2;0;neutro o insatisfecho
+18402;M;Frecuente;42;Negocios;Ejecutiva;284;2;3;3;4;2;2;2;114;neutro o insatisfecho
+63450;F;Frecuente;60;Personal;Economica;447;1;4;2;4;4;4;4;62;neutro o insatisfecho
+34236;M;Esporadico;10;Negocios;MuyEconomicanomica;1237;3;Cuatro;4;4;4;3;4;0;neutro o insatisfecho
+124363;M;Frecuente;56;Negocios;Ejecutiva;2803;3;3;4;4;5;5;4;0;satisfecho
+101456;M;Frecuente;19;Negocios;Ejecutiva;2195;5;5;3;3;3;5;3;0;satisfecho
+120593;F;Frecuente;66;Personal;Economica;980;3;5;3;5;1;1;4;0;neutro o insatisfecho
+98849;M;Frecuente;21;Personal;MuyEconomicanomica;1482;4;5;1;1;1;4;1;0;neutro o insatisfecho
+37155;M;Frecuente;62;Negocios;Ejecutiva;789;4;5;1;3;4;4;1;51;neutro o insatisfecho
+42116;M;Frecuente;50;Negocios;Economica;898;1;1;1;1;1;1;1;0;neutro o insatisfecho
+64146;M;Frecuente;43;Negocios;Ejecutiva;989;1;1;5;4;4;4;5;0;satisfecho
+118023;F;Frecuente;24;Personal;Ejecutiva;1262;2;4;2;3;2;3;2;10;neutro o insatisfecho
+72751;M;Frecuente;47;Negocios;Ejecutiva;1850;3;3;4;5;2;2;4;0;satisfecho
+115401;F;Esporadico;65;Negocios;Economica;362;1;3;5;4;5;1;5;21;neutro o insatisfecho
+62773;F;Frecuente;8;Negocios;Ejecutiva;2486;1;2;1;1;4;4;1;0;neutro o insatisfecho
+14876;F;Esporadico;27;Negocios;Economica;343;3;4;3;4;3;3;3;0;neutro o insatisfecho
+85767;M;Esporadico;26;Negocios;Ejecutiva;666;1;0;1;1;1;4;1;45;neutro o insatisfecho
+118740;M;Frecuente;21;Personal;Economica;368;2;1;3;5;3;2;3;0;neutro o insatisfecho
+64558;F;Frecuente;45;Negocios;Ejecutiva;1787;3;3;4;5;4;4;5;53;satisfecho
+34180;F;Esporadico;24;Negocios;Economica;1237;5;5;1;1;1;4;1;0;satisfecho
+109351;F;Frecuente;40;Negocios;Ejecutiva;2917;2;4;2;3;2;2;2;0;neutro o insatisfecho
+79450;F;Frecuente;35;Negocios;Ejecutiva;2142;3;1;4;4;3;3;1;64;neutro o insatisfecho
+129767;F;Frecuente;9;Personal;Economica;337;5;4;5;5;5;2;5;6;satisfecho
+116198;M;Frecuente;34;Personal;Economica;417;3;5;2;5;2;5;2;0;neutro o insatisfecho
+127893;F;Esporadico;35;Negocios;Ejecutiva;1671;1;1;2;2;2;5;2;0;neutro o insatisfecho
+108033;M;Frecuente;39;Negocios;Ejecutiva;2043;0;0;5;4;3;3;5;1;satisfecho
+61295;F;Frecuente;48;Personal;Economica;967;1;5;3;5;2;2;5;52;neutro o insatisfecho
+126268;M;Esporadico;17;Negocios;Economica;468;2;0;5;5;5;1;5;1;neutro o insatisfecho
+81639; ;Esporadico;17;Negocios;Economica;907;2;2;4;4;4;4;4;0;neutro o insatisfecho
+56751;F;Frecuente;59;Negocios;Ejecutiva;2484;2;2;5;5;5;5;4;0;satisfecho
+21022;M;Frecuente;47;Negocios;Economica;227;5;3;5;5;5;2;5;0;satisfecho
+56509;M;Frecuente;44;Negocios;Ejecutiva;2880;3;3;2;5;5;5;5;0;satisfecho
+2940;M;Frecuente;29;Personal;Ejecutiva;737;3;2;2;2;2;3;2;0;neutro o insatisfecho
+56855;M;Frecuente;54;Personal;Ejecutiva;2565;1;4;2;5;3;5;5;0;neutro o insatisfecho
+59879;M;Frecuente;52;Negocios;Ejecutiva;1985;5;5;3;4;4;4;3;1;satisfecho
+25027;F;Frecuente;58;Negocios;Economica;907;1;0;4;3;5;5;3;12;neutro o insatisfecho
+23466;F;Frecuente;23;Negocios;Economica;488;4;1;4;4;4;5;4;22;satisfecho
+115328;F;Frecuente;55;Negocios;Ejecutiva;446;3;3;5;5;5;5;5;0;satisfecho
+46192;F;Frecuente;41;Negocios;Ejecutiva;472;1;1;1;2;3;3;3;0;satisfecho
+81290;F;Frecuente;33;Personal;Economica;1020;2;5;2;2;2;4;2;1;neutro o insatisfecho
+127253;F;Frecuente;47;Negocios;Economica;1107;1;1;1;3;1;1;1;21;neutro o insatisfecho
+122033;M;Frecuente;42;Negocios;Ejecutiva;130;0;5;5;4;4;4;3;0;satisfecho
+121369;M;Frecuente;53;Personal;Economica;1670;4;2;4;4;4;2;4;0;neutro o insatisfecho
+112554;F;Frecuente;50;Negocios;MuyEconomicanomica;846;2;3;2;4;3;3;4;24;neutro o insatisfecho
+124511;F;Esporadico;18;Negocios;MuyEconomicanomica;930;2;3;4;4;4;4;4;86;neutro o insatisfecho
+90854;M;Frecuente;53;Negocios;Economica;646;3;3;2;2;2;3;2;0;neutro o insatisfecho
+6616;M;Frecuente;62;Personal;MuyEconomicanomica;618;2;4;5;5;5;2;5;0;neutro o insatisfecho
+44143;M;Frecuente;53;Personal;Economica;98;3;4;5;3;5;4;5;45;neutro o insatisfecho
+70277;M;Frecuente;55;Negocios;Ejecutiva;3117;4;4;5;4;5;5;4;0;satisfecho
+55477;M;Frecuente;47;Negocios;Ejecutiva;1825;5;5;2;5;4;4;5;0;satisfecho
+15020;F;Frecuente;16;Personal;Economica;557;1;5;2;2;2;4;2;6;neutro o insatisfecho
+22169;M;Frecuente;25;Negocios;Economica;533;2;5;2;1;2;1;2;17;neutro o insatisfecho
+19604;F;Frecuente;56;Negocios;MuyEconomicanomica;160;4;5;5;2;4;4;5;79;satisfecho
+9944;F;Frecuente;36;Negocios;Ejecutiva;3892;4;1;2;3;4;4;2;38;neutro o insatisfecho
+92322;F;Frecuente;54;Negocios;Ejecutiva;2399;3;3;5;4;4;4;4;0;satisfecho
+10605;M;Frecuente;53;Negocios;Ejecutiva;3153;1;4;3;4;3;3;1;16;neutro o insatisfecho
+5749;F;Frecuente;39;Negocios;Ejecutiva;859;3;3;1;3;3;3;4;77;neutro o insatisfecho
+52676;M;Frecuente;32;Personal;Economica;160;3;5;3;2;3;3;3;0;neutro o insatisfecho
+119964;M;Frecuente;50;Personal;Economica;868;3;5;2;2;2;2;2;0;neutro o insatisfecho
+121451;M;Frecuente;31;Negocios;Economica;331;3;2;3;3;3;-1;3;1;neutro o insatisfecho
+57284; ;Frecuente;38;Personal;Economica;628;4;5;5;5;5;5;5;0;satisfecho
+41894;M;Frecuente;34;Negocios;Economica;129;3;4;3;3;3;3;3;0;satisfecho
+78132;M;Frecuente;42;Negocios;Ejecutiva;259;3;1;2;3;3;3;2;0;neutro o insatisfecho
+109759;F;Frecuente;18;Personal;MuyEconomicanomica;587;1;4;5;5;5;4;5;0;neutro o insatisfecho
+62953;M;Frecuente;39;Negocios;Ejecutiva;862;2;3;3;4;4;4;3;10;satisfecho
+121757;M;Frecuente;60;Negocios;Ejecutiva;1680;1;5;1;1;1;5;1;200;neutro o insatisfecho
+87948;F;Frecuente;7;Personal;Ejecutiva;545;3;3;2;2;2;1;2;0;neutro o insatisfecho
+102080;F;Frecuente;59;Negocios;Ejecutiva;226;4;4;3;4;4;4;4;2;satisfecho
+52058;M;Frecuente;26;Negocios;Ejecutiva;2949;3;3;4;4;4;1;4;29;satisfecho
+78943;F;Frecuente;13;Negocios;Ejecutiva;500;2;2;5;5;5;4;5;0;satisfecho
+72551;F;Frecuente;66;Negocios;Ejecutiva;3662;3;3;2;3;3;3;2;28;neutro o insatisfecho
+20135;M;Frecuente;44;Personal;Economica;416;2;5;2;2;2;5;2;0;neutro o insatisfecho
+127541;F;Esporadico;8;Negocios;Economica;1009;2;2;5;5;5;4;5;0;neutro o insatisfecho
+56334;F;Frecuente;51;Negocios;Ejecutiva;3442;2;2;4;5;5;5;5;4;satisfecho
+41170;M;Frecuente;32;Negocios;MuyEconomicanomica;140;5;4;5;5;5;3;5;0;satisfecho
+111542;F;Frecuente;34;Negocios;Ejecutiva;1734;1;1;3;5;5;5;3;0;satisfecho
+64139;M;Frecuente;57;Negocios;Ejecutiva;2505;4;4;2;2;4;4;2;344;satisfecho
+25537;F;Frecuente;26;Personal;Economica;516;3;5;4;4;4;3;4;44;neutro o insatisfecho
+50545;F;Frecuente;26;Personal;Economica;209;3;3;4;4;4;1;4;6;neutro o insatisfecho
+20411;F;Frecuente;36;Negocios;Economica;299;4;5;4;4;4;3;4;0;neutro o insatisfecho
+70295;F;Frecuente;10;Personal;Economica;852;2;5;4;4;4;4;4;1;neutro o insatisfecho
+12202;M;Esporadico;27;Negocios;Ejecutiva;201;0;0;2;2;2;5;2;0;satisfecho
+13417;M;Esporadico;30;Negocios;Economica;409;3;4;5;5;5;4;5;19;neutro o insatisfecho
+103381;M;Esporadico;54;Negocios;Ejecutiva;237;4;4;4;3;4;3;4;6;satisfecho
+487;M;Esporadico;23;Negocios;Ejecutiva;158;0;5;2;2;2;4;2;0;satisfecho
+99696;M;Frecuente;10;Personal;Economica;442;2;5;2;3;2;4;2;72;neutro o insatisfecho
+42454;F;Frecuente;36;Personal;Economica;866;2;5;2;2;2;5;2;0;neutro o insatisfecho
+52046;M;Frecuente;53;Negocios;Ejecutiva;3095;3;3;4;5;3;3;5;0;satisfecho
+24314;F;Frecuente;46;Negocios;Economica;479;4;4;4;5;4;4;2;0;satisfecho
+6399;M;Frecuente;43;Personal;Economica;296;2;5;4;4;4;5;4;0;neutro o insatisfecho
+102247;F;Frecuente;41;Negocios;Economica;407;2;3;3;3;3;3;3;18;neutro o insatisfecho
+108085;M;Frecuente;47;Negocios;Ejecutiva;2430;5;5;2;4;3;3;5;22;satisfecho
+36848; ;Frecuente;62;Negocios;MuyEconomicanomica;369;1;2;1;1;1;3;1;155;neutro o insatisfecho
+62432;M;Frecuente;11;Personal;Economica;1911;1;4;4;4;4;4;4;26;neutro o insatisfecho
+70994;M;Esporadico;26;Negocios;Ejecutiva;802;1;1;1;1;1;5;1;90;neutro o insatisfecho
+27572;F;Frecuente;50;Personal;Economica;954;3;4;3;5;5;5;3;2;neutro o insatisfecho
+30118;M;Frecuente;69;Personal;Economica;95;5;5;2;2;2;3;2;0;satisfecho
+27319;M;Esporadico;36;Negocios;Economica;956;1;1;1;1;1;5;1;20;neutro o insatisfecho
+58320;M;Frecuente;29;Negocios;Economica;1739;1;0;1;1;1;1;1;3;neutro o insatisfecho
+70273;M;Esporadico;29;Negocios;Ejecutiva;852;1;1;2;2;2;3;2;0;neutro o insatisfecho
+109814;M;Esporadico;24;Negocios;Economica;1101;5;5;5;2;5;3;5;0;satisfecho
+5318;F;Frecuente;19;Negocios;MuyEconomicanomica;383;2;2;2;4;2;1;2;18;neutro o insatisfecho
+53657;F;Frecuente;32;Negocios;Ejecutiva;2762;2;2;3;3;3;5;3;0;satisfecho
+29675;M;Frecuente;32;Negocios;MuyEconomicanomica;909;4;2;4;4;4;5;4;0;satisfecho
+47856;F;Frecuente;53;Negocios;Ejecutiva;838;1;1;3;4;4;4;1;0;satisfecho
+28564;F;Esporadico;47;Negocios;MuyEconomicanomica;1201;3;2;4;4;4;2;4;0;neutro o insatisfecho
+86170;M;Frecuente;60;Negocios;Ejecutiva;2503;3;3;4;4;4;4;3;6;satisfecho
+67829;M;Esporadico;39;Negocios;Economica;1038;2;2;3;3;3;2;3;0;neutro o insatisfecho
+27363;F;Frecuente;46;Negocios;Economica;1050;5;3;1;4;5;5;3;0;satisfecho
+97263;M;Frecuente;50;Personal;Economica;296;3;4;4;3;4;3;4;8;neutro o insatisfecho
+18804;F;Frecuente;24;Negocios;Economica;448;5;5;5;5;5;2;5;6;satisfecho
+44442;M;Frecuente;43;Negocios;Economica;420;4;1;4;4;4;1;4;5;satisfecho
+113281;F;Frecuente;34;Negocios;Ejecutiva;197;4;4;2;4;5;5;5;0;satisfecho
+119742;F;Frecuente;35;Personal;Economica;1496;3;1;3;3;3;4;3;0;neutro o insatisfecho
+43628;M;Frecuente;61;Personal;Economica;252;2;4;2;5;2;4;2;0;neutro o insatisfecho
+57379;M;Frecuente;59;Personal;MuyEconomicanomica;414;2;2;3;3;3;3;3;1;neutro o insatisfecho
+64706;F;Frecuente;52;Negocios;Ejecutiva;3659;5;5;2;5;5;5;3;0;satisfecho
+42011;M;Frecuente;49;Negocios;Ejecutiva;3283;5;5;5;5;5;5;4;0;satisfecho
+87717;M;Frecuente;41;Negocios;Ejecutiva;1523;1;1;3;4;5;5;3;0;satisfecho
+120228;M;Esporadico;38;Negocios;Economica;903;2;2;1;1;1;1;1;0;neutro o insatisfecho
+116841;F;Frecuente;68;Personal;Ejecutiva;646;3;4;3;4;4;4;2;24;neutro o insatisfecho
+117101;M;Frecuente;48;Negocios;Economica;304;4;3;4;4;4;3;4;10;satisfecho
+109632;M;Frecuente;54;Negocios;Ejecutiva;802;3;3;5;5;4;4;3;6;satisfecho
+59572;F;Frecuente;53;Negocios;Ejecutiva;3250;5;5;2;5;5;5;5;0;satisfecho
+52948;M;Frecuente;53;Negocios;Economica;1048;5;1;4;4;4;2;4;9;satisfecho
+12404;F;Esporadico;50;Negocios;Economica;201;1;2;5;5;5;3;5;20;neutro o insatisfecho
+28391;M;Frecuente;55;Personal;Economica;763;3;5;2;2;2;5;2;0;neutro o insatisfecho
+28332;F;Frecuente;56;Negocios;Economica;867;4;3;2;5;4;4;3;0;satisfecho
+90015;M;Esporadico;18;Negocios;Economica;983;4;4;5;5;5;4;5;0;satisfecho
+14521;F;Frecuente;55;Negocios;Ejecutiva;368;4;4;4;4;3;1;4;178;satisfecho
+47163;M;Frecuente;37;Negocios;Economica;954;3;5;3;3;3;2;3;0;neutro o insatisfecho
+119643;F;Esporadico;29;Negocios;Ejecutiva;507;5;5;3;1;3;4;3;0;satisfecho
+79309;M;Frecuente;30;Personal;Economica;2248;2;4;1;1;1;4;1;0;neutro o insatisfecho
+84682;F;Esporadico;59;Negocios;Economica;682;3;3;2;2;2;3;2;0;neutro o insatisfecho
+91736;M;Frecuente;9;Negocios;Ejecutiva;590;4;1;4;4;4;3;4;0;neutro o insatisfecho
+112381;F;Frecuente;25;Negocios;Ejecutiva;2260;3;3;3;3;3;4;3;6;neutro o insatisfecho
+36609;F;Esporadico;41;Negocios;Economica;1197;1;1;5;5;5;4;5;0;neutro o insatisfecho
+41669;F;Esporadico;45;Negocios;Economica;843;3;4;2;2;2;3;2;0;neutro o insatisfecho
+70105;M;Frecuente;40;Negocios;Ejecutiva;2280;4;4;3;5;5;5;5;19;satisfecho
+126624;M;Frecuente;33;Negocios;Ejecutiva;3623;4;4;5;5;5;5;5;0;satisfecho
+66221;M;Frecuente;33;Negocios;Ejecutiva;1589;3;2;3;3;3;3;3;0;neutro o insatisfecho
+25762;F;Frecuente;65;Personal;Economica;356;1;5;3;5;1;1;4;0;neutro o insatisfecho
+121317;F;Frecuente;12;Personal;Economica;1009;4;4;1;1;1;4;1;0;satisfecho
+74596;M;Frecuente;42;Negocios;Ejecutiva;1171;1;1;5;5;4;4;4;0;satisfecho
+63948;M;Frecuente;54;Personal;Economica;1192;1;5;3;4;3;4;3;1;neutro o insatisfecho
+77032;M;Frecuente;34;Personal;Economica;368;2;4;1;1;1;2;1;0;neutro o insatisfecho
+103918;F;Frecuente;49;Negocios;Ejecutiva;3105;5;5;4;4;5;5;4;24;satisfecho
+95352;F;Frecuente;49;Personal;Economica;277;3;4;1;3;2;2;4;0;neutro o insatisfecho
+69016;F;Frecuente;43;Negocios;Ejecutiva;1389;1;1;4;4;5;5;4;0;satisfecho
+64710;F;Frecuente;34;Negocios;Ejecutiva;551;4;4;4;5;5;5;3;14;satisfecho
+82047;M;Frecuente;44;Personal;Economica;1576;3;5;2;2;2;3;2;0;neutro o insatisfecho
+32271;F;Frecuente;37;Negocios;Economica;201;2;4;2;2;2;3;2;3;neutro o insatisfecho
+85864;M;Frecuente;58;Negocios;Ejecutiva;672;3;3;4;5;5;5;5;0;satisfecho
+6427;F;Frecuente;63;Personal;Economica;315;2;5;3;2;4;4;3;0;neutro o insatisfecho
+70242;F;Frecuente;60;Negocios;Ejecutiva;1592;4;4;3;4;5;5;5;0;satisfecho
+86850;M;Frecuente;28;Personal;Economica;692;5;5;4;4;4;4;4;0;satisfecho
+43327;F;Frecuente;36;Negocios;Economica;347;4;3;4;4;4;1;4;4;satisfecho
+6752;F;Frecuente;48;Negocios;Ejecutiva;2963;3;3;2;5;5;5;3;45;satisfecho
+78838;F;Frecuente;35;Personal;Economica;432;1;2;3;3;3;4;3;0;neutro o insatisfecho
+9836;F;Frecuente;30;Negocios;Ejecutiva;1511;3;3;4;4;4;5;4;0;satisfecho
+85839;F;Frecuente;10;Personal;Economica;526;3;Cuatro;1;1;1;5;1;0;neutro o insatisfecho
+118190;F;Frecuente;38;Negocios;Ejecutiva;1044;3;2;5;1;3;3;1;8;neutro o insatisfecho
+61236;F;Frecuente;37;Negocios;Ejecutiva;2413;2;1;3;3;2;2;4;18;neutro o insatisfecho
+50802;M;Frecuente;14;Personal;Economica;86;2;4;1;1;1;5;1;0;neutro o insatisfecho
+85244;F;Frecuente;47;Personal;Economica;696;4;4;2;3;2;2;3;24;satisfecho
+44084;M;Frecuente;40;Negocios;Ejecutiva;440;1;1;5;4;3;3;2;0;satisfecho
+112451;F;Frecuente;48;Negocios;Economica;846;3;3;1;2;3;3;1;41;neutro o insatisfecho
+11992;F;Frecuente;29;Personal;Economica;643;2;5;5;5;5;4;5;19;neutro o insatisfecho
+109312;F;Frecuente;49;Negocios;Economica;1188;3;3;4;4;3;3;4;98;neutro o insatisfecho
+27917;M;Frecuente;50;Negocios;Ejecutiva;3127;4;5;1;4;4;4;4;0;neutro o insatisfecho
+88740;F;Frecuente;50;Personal;Economica;240;4;4;5;4;5;5;3;0;neutro o insatisfecho
+35869;M;Frecuente;9;Personal;Economica;1065;4;4;2;2;2;5;2;0;neutro o insatisfecho
+88528;M;Frecuente;52;Personal;Economica;404;2;5;4;4;4;1;4;0;neutro o insatisfecho
+67050;F;Esporadico;30;Negocios;Economica;985;2;2;2;2;2;1;2;65;neutro o insatisfecho
+107692;F;Esporadico;24;Negocios;Economica;405;4;0;2;5;2;4;2;0;satisfecho
+15048;M;Frecuente;41;Negocios;Economica;604;1;3;1;1;1;3;1;25;neutro o insatisfecho
+84561;F;Frecuente;10;Personal;Economica;2486;1;1;4;4;4;3;4;1;neutro o insatisfecho
+44251;F;Esporadico;32;Negocios;Economica;222;3;2;2;2;2;1;2;0;neutro o insatisfecho
+12797;M;Esporadico;27;Negocios;Economica;817;3;3;3;1;3;1;1;146;neutro o insatisfecho
+81053;M;Frecuente;13;Personal;Economica;1175;1;3;4;4;4;4;4;0;neutro o insatisfecho
+60573;M;Frecuente;50;Negocios;Ejecutiva;1558;5;5;2;5;4;4;5;1;satisfecho
+73030;M;Frecuente;37;Personal;Economica;1096;2;1;2;1;2;1;2;0;neutro o insatisfecho
+40529;F;Frecuente;46;Negocios;Ejecutiva;391;1;1;4;4;4;4;4;0;satisfecho
+128222;M;Frecuente;44;Negocios;Economica;602;3;2;3;3;3;1;3;1;neutro o insatisfecho
+96064;F;Frecuente;9;Personal;Economica;1235;2;4;5;5;5;3;5;0;neutro o insatisfecho
+19767;F;Frecuente;48;Personal;MuyEconomicanomica;779;4;5;4;1;4;3;1;219;neutro o insatisfecho
+71904;M;Frecuente;19;Personal;Economica;1846;1;5;2;2;2;4;2;0;neutro o insatisfecho
+3226;M;Frecuente;58;Negocios;Ejecutiva;479;3;3;4;5;4;4;4;0;satisfecho
+42893;M;Frecuente;49;Negocios;Ejecutiva;422;5;5;4;2;5;5;5;0;satisfecho
+28233;M;Frecuente;26;Negocios;Ejecutiva;1009;3;1;3;3;3;1;3;0;neutro o insatisfecho
+13218;M;Frecuente;34;Negocios;Ejecutiva;3836;3;2;3;3;2;1;3;188;neutro o insatisfecho
+71576;F;Frecuente;54;Negocios;Ejecutiva;2598;5;5;5;5;4;4;4;0;satisfecho
+66829;F;Frecuente;55;Negocios;Ejecutiva;731;1;1;3;5;5;5;3;0;satisfecho
+124634;M;Frecuente;10;Personal;Economica;1671;2;1;2;2;2;2;2;0;neutro o insatisfecho
+18286;M;Esporadico;22;Negocios;Economica;640;2;3;2;2;2;5;2;0;neutro o insatisfecho
+128899;F;Frecuente;66;Personal;Economica;2454;4;2;2;2;1;1;3;2;neutro o insatisfecho
+119598;F;Frecuente;49;Negocios;Ejecutiva;1979;1;1;3;5;4;4;5;0;satisfecho
+20552;F;Frecuente;31;Negocios;Ejecutiva;633;3;3;4;4;4;1;4;0;satisfecho
+92783;M;Frecuente;48;Personal;Economica;1671;4;5;2;2;2;1;2;0;neutro o insatisfecho
+1162;F;Frecuente;12;Personal;Economica;113;4;3;2;2;2;1;2;0;neutro o insatisfecho
+69237;M;Frecuente;25;Negocios;Ejecutiva;3547;2;3;2;2;2;1;2;0;neutro o insatisfecho
+68304;M;Frecuente;70;Personal;Economica;1797;1;5;4;4;4;5;4;0;neutro o insatisfecho
+11880;M;Frecuente;9;Personal;Economica;912;2;5;2;2;5;3;2;181;neutro o insatisfecho
+94370;F;Frecuente;51;Negocios;Ejecutiva;293;0;0;4;5;4;4;4;57;satisfecho
+106494;M;Frecuente;53;Negocios;Ejecutiva;495;3;3;2;4;4;4;5;2;satisfecho
+70369;F;Esporadico;57;Negocios;Economica;1145;2;2;3;3;3;3;3;0;neutro o insatisfecho
+92656;F;Frecuente;9;Personal;Economica;453;4;4;3;3;3;1;3;0;neutro o insatisfecho
+57639;M;Frecuente;57;Negocios;Ejecutiva;200;0;4;3;5;1;1;4;0;satisfecho
+121300;F;Frecuente;59;Negocios;Ejecutiva;2877;4;4;4;5;4;4;4;44;satisfecho
+23422;M;Frecuente;59;Personal;MuyEconomicanomica;541;4;4;5;5;5;5;5;29;neutro o insatisfecho
+54385;M;Esporadico;27;Negocios;Economica;305;4;0;3;3;3;1;3;0;satisfecho
+95626;F;Frecuente;69;Personal;Economica;670;4;4;5;5;3;3;3;72;neutro o insatisfecho
+70893;M;Frecuente;29;Negocios;Ejecutiva;1721;4;4;3;3;3;3;3;0;satisfecho
+32681;F;Esporadico;33;Negocios;Economica;201;2;0;2;2;2;4;2;1;neutro o insatisfecho
+45162;M;Frecuente;35;Negocios;Ejecutiva;1847;4;5;2;3;3;3;1;81;neutro o insatisfecho
+118425;M;Frecuente;46;Negocios;Ejecutiva;3106;2;2;5;5;4;4;5;0;satisfecho
+70047;M;Frecuente;33;Personal;Economica;583;1;5;3;3;3;3;3;1;neutro o insatisfecho
+102187;M;Frecuente;37;Negocios;Ejecutiva;1763;5;5;3;4;5;5;3;21;satisfecho
+129483;M;Esporadico;41;Negocios;Ejecutiva;2611;2;2;5;5;5;1;5;0;neutro o insatisfecho
+115279;F;Frecuente;31;Negocios;Ejecutiva;3702;4;5;4;4;4;2;4;71;neutro o insatisfecho
+20779;M;Esporadico;34;Negocios;Economica;515;2;4;1;1;1;3;1;0;neutro o insatisfecho
+37189;M;Frecuente;33;Negocios;MuyEconomicanomica;1237;4;3;4;4;4;3;4;0;satisfecho
+60974;F;Frecuente;33;Personal;Economica;888;4;5;1;1;1;4;1;16;neutro o insatisfecho
+109737;F;Frecuente;64;Personal;Economica;534;3;1;2;4;3;3;2;2;neutro o insatisfecho
+79937;F;Frecuente;40;Negocios;Ejecutiva;1989;2;2;2;4;5;5;5;0;satisfecho
+96827;M;Frecuente;56;Negocios;Ejecutiva;2784;4;4;5;4;4;4;4;1;satisfecho
+82002;F;Esporadico;44;Negocios;Economica;824;1;1;1;1;1;3;1;52;neutro o insatisfecho
+6062;F;Frecuente;45;Personal;Economica;630;1;4;1;5;3;4;5;794;neutro o insatisfecho
+92450;M;Frecuente;51;Negocios;Ejecutiva;1892;3;3;5;5;4;4;5;0;satisfecho
+111416;F;Frecuente;45;Personal;Ejecutiva;896;4;5;4;1;5;3;1;142;neutro o insatisfecho
+52558;M;Frecuente;45;Negocios;Ejecutiva;160;4;4;2;3;4;4;2;0;satisfecho
+5472;M;Frecuente;24;Personal;Economica;265;1;3;5;5;5;2;5;0;neutro o insatisfecho
+114819;M;Frecuente;52;Negocios;Ejecutiva;362;3;3;4;5;4;4;5;14;satisfecho
+27303;M;Frecuente;46;Negocios;Ejecutiva;956;4;4;2;3;3;3;1;0;satisfecho
+29246;M;Esporadico;37;Negocios;Economica;859;3;3;4;4;4;3;4;0;neutro o insatisfecho
+33393;M;Frecuente;56;Negocios;Ejecutiva;2917;3;3;4;4;5;1;4;0;satisfecho
+94215;M;Esporadico;26;Negocios;Ejecutiva;562;4;3;2;3;2;4;2;44;neutro o insatisfecho
+50414;M;Frecuente;56;Negocios;Ejecutiva;2938;3;3;2;1;4;4;5;0;satisfecho
+68873;F;Esporadico;36;Negocios;Economica;1061;2;2;4;4;4;1;4;13;neutro o insatisfecho
+27571;M;Frecuente;52;Personal;Economica;937;2;4;1;3;1;4;1;0;neutro o insatisfecho
+118505;F;Esporadico;27;Negocios;Ejecutiva;304;2;2;4;4;4;4;4;18;neutro o insatisfecho
+110657;M;Frecuente;52;Negocios;Ejecutiva;3000;2;2;5;4;4;4;3;4;satisfecho
+797;M;Esporadico;27;Negocios;Ejecutiva;312;1;1;1;5;4;5;5;175;neutro o insatisfecho
+124837;F;Frecuente;8;Personal;Economica;280;4;4;2;2;2;4;2;48;neutro o insatisfecho
+3746;F;Frecuente;8;Personal;Economica;431;2;5;2;2;2;4;2;0;neutro o insatisfecho
+79157;F;Frecuente;49;Negocios;Economica;2239;1;3;1;4;1;1;1;8;neutro o insatisfecho
+116556;F;Frecuente;20;Personal;Economica;337;3;5;5;5;5;4;5;0;neutro o insatisfecho
+34856;F;Frecuente;20;Personal;Economica;1826;3;4;2;2;2;4;2;0;neutro o insatisfecho
+129372;M;Frecuente;53;Negocios;Ejecutiva;2454;2;2;2;5;5;5;4;1;satisfecho
+2842;F;Frecuente;44;Negocios;Ejecutiva;2646;1;1;4;5;4;4;4;3;satisfecho
+20590;M;Esporadico;36;Negocios;MuyEconomicanomica;533;2;2;2;2;2;2;2;36;neutro o insatisfecho
+44545;M;Frecuente;19;Personal;Economica;157;2;5;1;1;1;3;1;0;neutro o insatisfecho
+23538;M;Frecuente;53;Personal;Economica;423;5;2;4;4;4;1;4;2;satisfecho
+13033;F;Frecuente;31;Personal;Economica;374;3;5;2;2;2;3;2;0;neutro o insatisfecho
+124199;F;Frecuente;39;Negocios;Ejecutiva;2176;3;3;4;4;5;5;3;13;satisfecho
+38737;F;Frecuente;36;Negocios;Economica;387;5;2;5;5;5;3;5;0;satisfecho
+120260;F;Esporadico;39;Negocios;Ejecutiva;237;4;4;3;3;3;4;3;0;satisfecho
+3305;F;Frecuente;36;Personal;MuyEconomicanomica;419;1;1;1;1;1;2;1;42;neutro o insatisfecho
+117185;F;Frecuente;33;Personal;Economica;304;1;5;3;3;3;4;3;0;neutro o insatisfecho
+49720;M;Frecuente;54;Negocios;Economica;109;1;0;3;2;3;1;3;0;neutro o insatisfecho
+18526;M;Esporadico;44;Negocios;Economica;253;3;3;3;3;3;2;3;0;neutro o insatisfecho
+126967;M;Frecuente;45;Negocios;Ejecutiva;3315;3;3;5;5;5;5;5;0;satisfecho
+53954;M;Frecuente;44;Negocios;Ejecutiva;1325;5;5;3;2;1;1;2;0;satisfecho
+101023;M;Frecuente;45;Personal;Economica;867;3;2;3;3;3;3;3;40;neutro o insatisfecho
+113140;F;Frecuente;43;Negocios;Ejecutiva;2128;1;1;4;5;5;5;5;0;satisfecho
+94890;M;Esporadico;43;Negocios;Economica;239;3;0;5;5;5;3;5;2;neutro o insatisfecho
+99061;M;Frecuente;68;Negocios;Ejecutiva;3577;4;4;5;5;4;4;3;0;satisfecho
+73725;M;Esporadico;15;Negocios;Economica;204;5;3;5;5;5;5;5;0;satisfecho
+72614;M;Frecuente;51;Personal;Economica;918;3;5;3;3;3;3;3;0;neutro o insatisfecho
+87871;M;Frecuente;57;Negocios;Ejecutiva;3739;4;4;3;5;4;4;3;0;satisfecho
+121450;F;Frecuente;22;Negocios;Ejecutiva;3873;4;1;4;4;4;1;4;0;neutro o insatisfecho
+75409;F;Frecuente;54;Negocios;Ejecutiva;2330;4;4;5;5;3;3;5;36;satisfecho
+23724;F;Esporadico;27;Negocios;MuyEconomicanomica;196;2;3;4;2;4;2;4;0;neutro o insatisfecho
+69769;M;Frecuente;58;Personal;MuyEconomicanomica;1085;3;2;1;1;1;3;1;0;neutro o insatisfecho
+41148;F;Frecuente;46;Personal;Economica;140;4;4;5;2;4;4;4;64;neutro o insatisfecho
+93405;F;Esporadico;26;Negocios;Ejecutiva;723;4;4;3;3;3;5;3;35;satisfecho
+111695;F;Frecuente;50;Negocios;Ejecutiva;1910;2;2;2;5;5;5;4;25;satisfecho
+5878;M;Frecuente;42;Negocios;Ejecutiva;1757;3;3;4;4;3;2;4;237;satisfecho
+85353;M;Frecuente;69;Negocios;MuyEconomicanomica;696;2;2;2;2;2;1;2;0;neutro o insatisfecho
+61645;M;Frecuente;51;Negocios;Ejecutiva;1464;5;2;4;4;4;4;3;6;satisfecho
+96548;M;Frecuente;80;Negocios;Ejecutiva;1990;2;2;5;5;5;5;5;9;satisfecho
+102413;F;Frecuente;46;Personal;Economica;391;3;4;2;5;5;5;3;0;neutro o insatisfecho
+30202;M;Frecuente;34;Negocios;MuyEconomicanomica;95;0;0;5;1;5;4;5;0;satisfecho
+68918;M;Frecuente;54;Personal;Economica;1061;1;4;4;4;4;5;4;0;neutro o insatisfecho
+122304;F;Frecuente;22;Personal;Economica;573;2;5;4;4;4;4;4;0;neutro o insatisfecho
+90853;F;Esporadico;22;Negocios;Ejecutiva;515;3;4;1;1;1;3;1;0;neutro o insatisfecho
+8835;M;Frecuente;15;Negocios;MuyEconomicanomica;522;2;4;2;2;2;2;2;76;neutro o insatisfecho
+118896;M;Frecuente;47;Negocios;Economica;587;1;2;1;1;1;1;1;35;neutro o insatisfecho
+101125;M;Frecuente;43;Negocios;Ejecutiva;3744;3;1;1;3;3;3;2;45;neutro o insatisfecho
+79889;F;Frecuente;29;Negocios;Ejecutiva;3737;5;5;5;5;3;4;5;172;satisfecho
+44592;M;Frecuente;58;Personal;Economica;157;3;5;1;1;1;3;1;10;neutro o insatisfecho
+76516;M;Frecuente;51;Negocios;Ejecutiva;3666;2;2;5;4;4;4;3;0;satisfecho
+66262;M;Frecuente;34;Personal;Economica;550;1;4;3;3;3;3;3;0;neutro o insatisfecho
+69765;M;Frecuente;63;Personal;Economica;1085;1;4;3;4;3;4;3;0;neutro o insatisfecho
+51165;M;Frecuente;32;Personal;Economica;77;3;5;1;1;1;2;1;2;neutro o insatisfecho
+91403;F;Frecuente;19;Personal;Economica;2218;4;1;4;4;4;3;4;0;satisfecho
+66775;F;Esporadico;8;Negocios;MuyEconomicanomica;802;3;2;3;3;3;1;3;45;neutro o insatisfecho
+80647;F;Frecuente;30;Negocios;Ejecutiva;2781;1;1;4;4;4;3;4;0;satisfecho
+72919;F;Esporadico;28;Negocios;Ejecutiva;1096;2;3;5;5;5;3;5;0;neutro o insatisfecho
+39450;M;Frecuente;17;Personal;Economica;129;2;Cuatro;2;2;2;3;2;19;neutro o insatisfecho
+124360;F;Frecuente;22;Negocios;Ejecutiva;2498;4;4;5;5;5;4;5;0;satisfecho
+108822;M;Frecuente;12;Personal;Ejecutiva;1199;2;5;5;5;5;3;5;0;neutro o insatisfecho
+114420;M;Frecuente;59;Negocios;Ejecutiva;417;1;1;3;4;4;4;5;0;satisfecho
+40735;M;Frecuente;40;Negocios;Ejecutiva;584;2;2;3;5;5;5;2;0;satisfecho
+38581;F;Esporadico;23;Negocios;Economica;1352;4;4;4;4;4;2;4;35;satisfecho
+84399;F;Frecuente;52;Negocios;Economica;206;4;5;3;3;4;4;5;0;satisfecho
+13370;F;Frecuente;14;Personal;Economica;748;1;5;5;1;5;5;5;0;neutro o insatisfecho
+87974;F;Esporadico;32;Negocios;Ejecutiva;545;2;2;4;4;4;5;4;10;neutro o insatisfecho
+35676;M;Frecuente;29;Negocios;Economica;2576;4;2;4;4;2;2;4;2;satisfecho
+67725;F;Frecuente;25;Negocios;Ejecutiva;2273;2;3;2;2;2;4;2;34;neutro o insatisfecho
+9889;F;Frecuente;51;Negocios;Ejecutiva;508;2;2;5;4;3;3;3;0;satisfecho
+89045;F;Frecuente;57;Negocios;Ejecutiva;1947;5;5;3;5;5;5;3;0;satisfecho
+14898;F;Esporadico;38;Negocios;Economica;240;3;3;1;1;1;3;1;5;neutro o insatisfecho
+125825;M;Esporadico;18;Negocios;Economica;861;4;4;1;1;1;3;1;37;neutro o insatisfecho
+33492;M;Frecuente;50;Personal;Economica;2496;3;5;1;3;1;5;1;4;neutro o insatisfecho
+40659;F;Frecuente;54;Negocios;Ejecutiva;590;2;4;5;4;4;4;5;6;satisfecho
+14548;F;Frecuente;56;Personal;Economica;362;1;5;2;4;1;1;5;0;neutro o insatisfecho
+23261;M;Frecuente;38;Negocios;MuyEconomicanomica;1050;3;3;3;3;3;1;3;0;satisfecho
+40005;F;Frecuente;56;Negocios;Economica;575;4;4;4;5;4;4;5;0;satisfecho
+106578;M;Frecuente;40;Personal;Economica;1506;4;2;2;2;2;2;2;0;neutro o insatisfecho
+101453;F;Frecuente;45;Negocios;Ejecutiva;2138;3;3;2;5;5;5;4;10;satisfecho
+32463;F;Frecuente;33;Negocios;Economica;216;3;4;3;3;3;2;3;0;neutro o insatisfecho
+116526;M;Frecuente;60;Personal;Economica;358;3;4;1;1;1;5;1;57;neutro o insatisfecho
+43921;M;Frecuente;32;Personal;Economica;174;1;5;2;2;2;3;2;0;neutro o insatisfecho
+73891;F;Esporadico;30;Negocios;Ejecutiva;1062;4;4;1;1;1;5;1;0;satisfecho
+90803;F;Frecuente;29;Negocios;Ejecutiva;2100;2;5;2;2;2;2;2;0;neutro o insatisfecho
+86420;F;Esporadico;26;Negocios;Economica;760;3;3;1;1;1;3;1;0;neutro o insatisfecho
+93836;M;Frecuente;33;Negocios;Ejecutiva;391;3;3;3;3;3;2;3;18;neutro o insatisfecho
+54265;M;Frecuente;49;Personal;Economica;1222;2;1;5;5;5;3;5;0;neutro o insatisfecho
+79536;M;Frecuente;52;Negocios;Ejecutiva;712;1;1;4;4;5;5;4;0;satisfecho
+103563;M;Esporadico;33;Negocios;Ejecutiva;604;2;2;5;5;5;3;5;54;neutro o insatisfecho
+38144;F;Frecuente;61;Personal;Economica;1249;3;5;2;4;3;3;4;9;neutro o insatisfecho
+119374;M;Frecuente;53;Negocios;Ejecutiva;399;2;2;5;5;5;5;3;29;satisfecho
+118847;F;Esporadico;18;Negocios;MuyEconomicanomica;304;1;3;2;2;2;4;2;44;neutro o insatisfecho
+103674;M;Esporadico;24;Negocios;Economica;251;3;2;1;1;1;2;1;39;neutro o insatisfecho
+102582;F;Esporadico;26;Negocios;MuyEconomicanomica;407;4;1;1;1;1;1;1;40;neutro o insatisfecho
+8597;F;Frecuente;50;Negocios;MuyEconomicanomica;109;3;4;4;4;3;3;4;0;neutro o insatisfecho
+8275;F;Frecuente;43;Personal;Economica;125;4;4;4;3;5;5;2;0;neutro o insatisfecho
+71465;F;Frecuente;36;Personal;Economica;867;4;5;5;5;5;4;5;30;neutro o insatisfecho
+99158;M;Frecuente;33;Negocios;Economica;986;1;2;1;1;1;4;1;0;neutro o insatisfecho
+5633;F;Frecuente;29;Negocios;MuyEconomicanomica;685;1;4;1;1;1;4;1;27;neutro o insatisfecho
+33962;M;Frecuente;47;Negocios;Ejecutiva;1576;5;5;2;5;4;4;3;0;satisfecho
+118041;F;Frecuente;29;Negocios;Ejecutiva;1262;3;3;4;4;4;4;4;0;satisfecho
+74952;F;Frecuente;21;Negocios;Economica;2475;3;4;3;1;3;2;3;0;neutro o insatisfecho
+91724;M;Esporadico;23;Negocios;Ejecutiva;590;0;0;5;5;5;4;5;14;satisfecho
+107904;M;Frecuente;33;Negocios;Ejecutiva;861;5;5;3;3;3;5;3;2;satisfecho
+114551;M;Frecuente;10;Personal;Ejecutiva;337;1;4;5;4;5;4;5;0;neutro o insatisfecho
+102209;M;Frecuente;37;Negocios;Ejecutiva;386;4;4;2;4;5;5;5;28;satisfecho
+28477;M;Frecuente;25;Personal;Economica;1721;1;5;5;5;5;5;5;0;neutro o insatisfecho
+8921;M;Esporadico;34;Negocios;Economica;661;2;3;2;3;3;1;3;302;neutro o insatisfecho
+69002;F;Frecuente;23;Negocios;Ejecutiva;1389;4;4;4;4;4;4;4;0;satisfecho
+3401;F;Frecuente;21;Negocios;Ejecutiva;3365;2;2;4;4;4;4;4;0;satisfecho
+8664;F;Frecuente;55;Negocios;Ejecutiva;280;2;5;5;2;2;2;2;0;neutro o insatisfecho
+48441;F;Frecuente;19;Negocios;Ejecutiva;1773;5;5;4;4;4;5;4;5;satisfecho
+75813;F;Frecuente;48;Personal;MuyEconomicanomica;813;2;4;1;4;3;3;4;9;neutro o insatisfecho
+32549;M;Esporadico;22;Negocios;Economica;163;3;5;5;5;5;5;5;0;neutro o insatisfecho
+28943;M;Frecuente;23;Negocios;Economica;978;5;2;5;4;5;1;5;0;satisfecho
+90179;M;Frecuente;32;Personal;Economica;1127;2;4;1;1;1;5;1;48;neutro o insatisfecho
+68384;M;Esporadico;25;Negocios;Ejecutiva;1045;0;0;4;3;4;4;4;0;satisfecho
+24402;M;Frecuente;70;Personal;Ejecutiva;634;3;4;5;4;2;2;3;0;neutro o insatisfecho
+28072;F;Frecuente;21;Personal;Economica;2607;3;3;3;5;4;4;5;0;neutro o insatisfecho
+36055;M;Frecuente;55;Negocios;Ejecutiva;3361;3;5;3;4;3;3;2;0;neutro o insatisfecho
+7192;M;Frecuente;59;Negocios;Ejecutiva;1980;4;4;3;5;4;4;5;14;satisfecho
+109119;M;Frecuente;49;Personal;MuyEconomicanomica;849;2;3;1;1;1;5;1;0;neutro o insatisfecho
+127597;F;Frecuente;42;Negocios;Ejecutiva;1773;4;4;2;4;4;4;5;0;satisfecho
+302;M;Frecuente;52;Negocios;Ejecutiva;821;5;5;5;5;5;5;4;18;satisfecho
+17475;F;Frecuente;45;Negocios;Economica;241;4;5;1;3;4;4;1;0;neutro o insatisfecho
+46996;M;Frecuente;43;Negocios;MuyEconomicanomica;737;2;5;2;2;2;2;2;0;neutro o insatisfecho
+25286;F;Frecuente;66;Negocios;Ejecutiva;2899;1;1;5;2;5;5;4;0;satisfecho
+50538;M;Frecuente;67;Personal;Economica;156;1;4;4;4;4;3;4;3;neutro o insatisfecho
+110653;M;Frecuente;43;Negocios;Ejecutiva;945;3;3;5;5;5;5;3;11;satisfecho
+119097;F;Frecuente;27;Negocios;Ejecutiva;3207;1;4;1;1;1;4;1;0;neutro o insatisfecho
+34530;F;Frecuente;40;Negocios;Economica;636;5;5;5;5;5;3;5;38;satisfecho
+39186;F;Frecuente;38;Personal;Economica;287;1;1;5;5;5;1;5;0;neutro o insatisfecho
+60820;M;Frecuente;60;Personal;Economica;524;2;4;5;5;5;3;5;25;neutro o insatisfecho
+55966;M;Frecuente;45;Negocios;Ejecutiva;1620;4;5;5;4;4;4;4;1;neutro o insatisfecho
+104926;M;Frecuente;28;Negocios;Ejecutiva;210;5;5;4;4;4;5;4;98;satisfecho
+116184;M;Frecuente;29;Personal;Economica;325;4;3;5;5;5;2;5;0;satisfecho
+126051;F;Frecuente;54;Negocios;Ejecutiva;1790;2;2;3;4;4;4;4;0;satisfecho
+98895;M;Frecuente;35;Negocios;Ejecutiva;3229;4;4;5;5;2;2;5;10;satisfecho
+63981;F;Frecuente;24;Personal;MuyEconomicanomica;1192;4;4;5;5;5;3;5;5;neutro o insatisfecho
+65557;M;Frecuente;40;Negocios;Ejecutiva;1791;1;1;5;5;5;5;3;0;satisfecho
+113402;M;Esporadico;41;Negocios;Ejecutiva;386;1;1;3;3;3;3;3;0;neutro o insatisfecho
+18551;F;Frecuente;19;Negocios;Ejecutiva;3842;5;5;5;5;5;1;5;0;satisfecho
+85459;F;Frecuente;42;Negocios;Ejecutiva;1832;2;2;2;2;2;2;3;17;neutro o insatisfecho
+36536;M;Esporadico;24;Negocios;Economica;1197;2;2;5;5;5;5;5;0;neutro o insatisfecho
+65728;M;Frecuente;28;Negocios;Ejecutiva;936;3;3;2;2;2;4;2;0;satisfecho
+23212;M;Frecuente;37;Negocios;Ejecutiva;2494;0;0;5;5;3;3;1;0;satisfecho
+108781;F;Frecuente;66;Negocios;Ejecutiva;1629;2;1;1;2;2;2;4;23;neutro o insatisfecho
+59180;F;Frecuente;48;Negocios;Ejecutiva;1440;1;1;4;4;2;2;3;1;satisfecho
+100213;F;Frecuente;48;Negocios;Ejecutiva;3200;2;2;4;5;4;4;4;0;satisfecho
+71918;M;Frecuente;64;Personal;Economica;1723;2;5;5;5;5;4;5;0;neutro o insatisfecho
+37230;F;Esporadico;29;Negocios;Ejecutiva;1041;1;1;3;3;3;3;3;16;neutro o insatisfecho
+60526;F;Frecuente;57;Personal;Economica;934;1;5;3;5;4;4;5;0;neutro o insatisfecho
+104513;F;Frecuente;56;Negocios;Ejecutiva;3853;3;3;3;5;5;5;4;0;satisfecho
+128822;M;Frecuente;52;Negocios;Ejecutiva;2586;3;3;3;3;3;4;3;0;satisfecho
+125138;F;Frecuente;51;Negocios;Ejecutiva;1765;1;1;3;5;4;4;4;0;satisfecho
+47553;M;Frecuente;30;Negocios;MuyEconomicanomica;501;1;3;2;1;1;2;1;181;neutro o insatisfecho
+39894;F;Frecuente;11;Personal;Economica;272;4;0;4;4;4;4;4;4;satisfecho
+21065;M;Frecuente;47;Negocios;Economica;227;4;1;4;4;2;3;4;140;neutro o insatisfecho
+52294;M;Esporadico;27;Negocios;Economica;651;4;2;5;5;5;2;5;0;neutro o insatisfecho
+61987;F;Frecuente;49;Negocios;Ejecutiva;2475;3;3;2;4;5;5;3;0;satisfecho
+18479;F;Frecuente;42;Negocios;Economica;285;4;4;5;5;4;4;3;0;satisfecho
+35724;F;Frecuente;49;Personal;MuyEconomicanomica;2465;0;1;1;4;2;2;2;9;satisfecho
+96032;M;Frecuente;45;Negocios;Economica;1235;1;1;1;1;1;3;1;0;neutro o insatisfecho
+29260;M;Frecuente;44;Negocios;Ejecutiva;834;2;2;3;3;4;4;5;0;satisfecho
+59258;F;Frecuente;28;Negocios;Ejecutiva;3904;2;2;4;4;5;2;4;14;satisfecho
+123780;F;Frecuente;22;Negocios;Ejecutiva;3570;5;5;4;4;4;4;4;2;satisfecho
+70376;F;Frecuente;12;Negocios;MuyEconomicanomica;1145;1;1;1;2;1;4;1;32;neutro o insatisfecho
+52039;F;Esporadico;64;Negocios;MuyEconomicanomica;328;1;2;5;1;5;3;5;0;neutro o insatisfecho
+28817;M;Frecuente;35;Negocios;Economica;1050;4;3;4;4;4;2;4;0;satisfecho
+108029;F;Frecuente;46;Negocios;Ejecutiva;3345;0;1;2;4;3;3;4;0;satisfecho
+86393;F;Frecuente;49;Negocios;Ejecutiva;853;3;3;4;4;5;5;5;7;satisfecho
+29491;M;Frecuente;43;Negocios;Economica;1107;1;0;2;2;2;4;2;0;neutro o insatisfecho
+77191;M;Frecuente;8;Personal;Economica;290;2;4;1;1;1;3;1;0;neutro o insatisfecho
+88124;F;Frecuente;50;Negocios;Ejecutiva;3953;0;1;3;4;4;4;3;0;satisfecho
+86242;F;Frecuente;39;Personal;Economica;226;2;3;4;4;4;1;4;0;neutro o insatisfecho
+62464;M;Frecuente;53;Personal;Ejecutiva;1744;1;4;3;4;4;4;5;104;neutro o insatisfecho
+42500;F;Esporadico;43;Negocios;Economica;541;3;0;2;2;2;1;2;0;neutro o insatisfecho
+87356;F;Frecuente;53;Negocios;Ejecutiva;3944;4;4;3;5;4;4;3;1;satisfecho
+121522;F;Frecuente;44;Negocios;Ejecutiva;3069;2;2;2;5;4;4;5;29;satisfecho
+93054;F;Esporadico;38;Negocios;Ejecutiva;297;2;2;2;2;2;5;2;0;neutro o insatisfecho
+120427;M;Esporadico;21;Negocios;Economica;366;3;2;5;5;5;2;5;0;neutro o insatisfecho
+59106;M;Frecuente;57;Personal;Economica;1846;3;4;1;1;1;3;1;18;neutro o insatisfecho
+6567;M;Frecuente;26;Negocios;Ejecutiva;618;1;1;4;4;4;5;4;20;satisfecho
+108496;M;Frecuente;33;Negocios;Ejecutiva;3637;2;2;4;4;4;5;4;91;satisfecho
+109460;F;Frecuente;40;Negocios;Ejecutiva;1514;1;1;4;4;3;3;5;0;satisfecho
+64778;M;Frecuente;38;Negocios;Ejecutiva;282;0;0;3;5;1;1;4;0;satisfecho
+44017;M;Frecuente;26;Personal;Economica;397;2;4;3;5;3;5;3;0;neutro o insatisfecho
+51878;F;Frecuente;58;Negocios;MuyEconomicanomica;771;5;5;3;3;5;5;4;0;satisfecho
+70371;M;Frecuente;22;Personal;Economica;1145;3;5;4;4;4;5;4;0;neutro o insatisfecho
+20776;F;Esporadico;22;Negocios;Economica;457;4;4;3;3;3;2;3;0;satisfecho
+61978;F;Frecuente;63;Personal;Ejecutiva;2475;4;1;4;2;2;2;3;0;neutro o insatisfecho
+21244;F;Frecuente;38;Negocios;MuyEconomicanomica;192;5;3;5;5;5;2;5;4;satisfecho
+4743;M;Frecuente;26;Personal;Economica;888;2;4;300;3;3;4;3;17;neutro o insatisfecho
+80058;M;Frecuente;63;Personal;Economica;1069;3;Cuatro;5;5;5;3;5;0;neutro o insatisfecho
+15013;F;Frecuente;51;Negocios;Economica;557;4;5;4;4;4;4;3;0;neutro o insatisfecho
+43282;M;Esporadico;20;Negocios;Ejecutiva;358;2;2;3;3;3;1;3;0;neutro o insatisfecho
+59902;M;Frecuente;19;Negocios;Ejecutiva;2905;4;4;4;4;4;5;4;0;satisfecho
+54384;M;Esporadico;39;Negocios;Economica;305;2;0;3;3;3;2;3;2;neutro o insatisfecho
+29278;M;Frecuente;54;Negocios;Ejecutiva;3995;3;1;2;3;3;3;4;0;neutro o insatisfecho
+76371;F;Esporadico;25;Negocios;Ejecutiva;931;4;5;1;1;1;4;1;14;neutro o insatisfecho
+78418;F;Esporadico;26;Negocios;Economica;453;2;0;2;2;2;1;2;5;neutro o insatisfecho
+50165;M;Frecuente;33;Negocios;Ejecutiva;2654;1;1;5;5;5;4;5;0;satisfecho
+93296;F;Frecuente;29;Negocios;MuyEconomicanomica;867;1;3;1;1;1;1;1;0;neutro o insatisfecho
+96570;F;Esporadico;72;Negocios;Ejecutiva;333;5;5;3;3;3;3;3;0;satisfecho
+27161;F;Frecuente;39;Negocios;Ejecutiva;2701;3;1;4;4;5;1;4;0;satisfecho
+73749;M;Frecuente;54;Personal;Economica;192;3;2;2;2;2;3;2;0;neutro o insatisfecho
+50928;F;Frecuente;64;Personal;Economica;86;3;4;3;4;4;4;2;0;neutro o insatisfecho
+93760;M;Frecuente;56;Personal;Economica;368;1;5;5;5;5;1;5;2;neutro o insatisfecho
+24482;F;Esporadico;27;Negocios;Economica;547;3;1;2;3;2;3;2;0;neutro o insatisfecho
+50263;F;Frecuente;30;Negocios;Ejecutiva;209;2;3;3;2;3;3;3;43;neutro o insatisfecho
+11549;M;Frecuente;57;Negocios;Ejecutiva;772;2;2;4;4;3;2;4;222;satisfecho
+7042;F;Frecuente;44;Negocios;MuyEconomicanomica;299;3;3;1;3;3;3;4;0;neutro o insatisfecho
+37244;M;Frecuente;48;Personal;Ejecutiva;1076;4;5;2;4;2;2;3;3;neutro o insatisfecho
+81181;F;Esporadico;20;Negocios;Economica;726;2;2;5;5;5;1;5;0;neutro o insatisfecho
+37710;F;Frecuente;43;Personal;Economica;972;1;5;5;4;2;2;4;3;neutro o insatisfecho
+88550;F;Frecuente;58;Personal;Economica;594;1;2;1;4;1;1;3;7;neutro o insatisfecho
+3399;M;Frecuente;53;Negocios;Ejecutiva;296;1;1;4;5;4;4;3;0;satisfecho
+97599;M;Frecuente;42;Negocios;Ejecutiva;3787;2;2;3;4;2;2;3;20;neutro o insatisfecho
+108846;M;Frecuente;48;Negocios;Ejecutiva;1947;2;2;2;5;3;3;4;14;satisfecho
+76419;M;Frecuente;40;Negocios;Ejecutiva;3142;4;4;4;4;3;2;4;145;satisfecho
+65869;M;Frecuente;43;Personal;Economica;1389;3;4;3;3;3;3;3;0;neutro o insatisfecho
+120407;M;Frecuente;38;Negocios;Ejecutiva;449;3;4;4;2;3;3;2;10;neutro o insatisfecho
+50102;F;Frecuente;50;Negocios;Ejecutiva;3397;4;5;3;4;3;2;4;161;neutro o insatisfecho
+83915;F;Esporadico;52;Negocios;MuyEconomicanomica;752;4;4;4;4;4;3;4;36;neutro o insatisfecho
+67631;M;Frecuente;53;Negocios;Ejecutiva;1188;4;4;4;4;4;4;5;0;satisfecho
+124836;M;Frecuente;19;Personal;Economica;280;3;4;4;4;4;2;4;0;neutro o insatisfecho
+48176;F;Frecuente;23;Negocios;Ejecutiva;236;3;4;3;3;3;3;3;0;neutro o insatisfecho
+36004;F;Frecuente;59;Negocios;Economica;413;5;4;1;4;5;5;2;0;satisfecho
+32664;M;Frecuente;41;Negocios;Economica;163;5;1;5;5;5;1;5;0;satisfecho
+123213;M;Frecuente;45;Personal;Economica;468;3;5;4;4;4;3;4;6;neutro o insatisfecho
+125653;M;Frecuente;54;Negocios;Ejecutiva;899;4;4;3;4;4;4;3;0;satisfecho
+123764;F;Frecuente;30;Negocios;Ejecutiva;546;2;2;4;4;4;5;4;0;satisfecho
+114542;F;Frecuente;58;Personal;Ejecutiva;446;1;5;4;4;1;1;4;4;neutro o insatisfecho
+84803;F;Frecuente;57;Negocios;Ejecutiva;2227;2;2;4;4;5;4;4;184;satisfecho
+11621;F;Frecuente;51;Personal;Economica;657;1;2;3;4;3;3;4;5;neutro o insatisfecho
+128655;M;Esporadico;38;Negocios;Ejecutiva;2288;4;4;4;4;4;3;4;14;neutro o insatisfecho
+78897;F;Frecuente;22;Negocios;Ejecutiva;1727;1;1;1;1;1;1;1;9;neutro o insatisfecho
+93000;F;Frecuente;39;Personal;MuyEconomicanomica;738;4;5;5;5;5;4;5;0;neutro o insatisfecho
+108518;F;Frecuente;58;Personal;Economica;519;5;3;3;3;4;4;1;3;satisfecho
+55101;M;Esporadico;23;Negocios;Economica;979;2;2;4;4;4;4;4;6;neutro o insatisfecho
+114128;M;Frecuente;53;Negocios;Ejecutiva;853;4;4;4;4;5;5;3;0;satisfecho
+31120;F;Frecuente;27;Negocios;Economica;991;3;5;3;3;3;-1;3;75;satisfecho
+52595;F;Frecuente;35;Negocios;Ejecutiva;119;2;3;2;2;3;3;2;0;neutro o insatisfecho
+128934;F;Frecuente;33;Negocios;Ejecutiva;2486;2;2;3;5;4;4;3;0;satisfecho
+31911;F;Frecuente;51;Negocios;Ejecutiva;216;4;4;5;5;4;4;3;0;satisfecho
+14510;M;Frecuente;60;Personal;Economica;328;0;2;1;1;1;1;1;0;satisfecho
+39175;M;Frecuente;43;Negocios;Ejecutiva;237;0;0;2;1;1;1;5;0;satisfecho
+44834;F;Frecuente;70;Personal;Economica;462;5;5;1;2;5;5;2;0;satisfecho
+31893;M;Frecuente;51;Personal;Economica;2762;4;4;4;4;4;2;4;0;neutro o insatisfecho
+24331;F;Frecuente;27;Personal;MuyEconomicanomica;1083;2;4;2;2;2;3;2;22;neutro o insatisfecho
+114732;F;Frecuente;59;Negocios;Ejecutiva;3272;1;1;4;5;4;4;3;60;satisfecho
+21079;F;Frecuente;33;Negocios;Economica;227;4;5;4;4;4;3;4;0;satisfecho
+116483;F;Frecuente;11;Personal;Economica;333;2;3;1;1;1;1;1;0;neutro o insatisfecho
+83403;M;Frecuente;21;Negocios;Ejecutiva;1593;4;4;5;5;5;4;5;32;satisfecho
+1179;M;Frecuente;48;Personal;Economica;134;1;1;4;2;4;4;4;10;neutro o insatisfecho
+113426;F;Esporadico;34;Negocios;Economica;488;2;0;5;5;5;2;5;22;neutro o insatisfecho
+12279;M;Esporadico;21;Negocios;Economica;253;3;3;4;5;4;3;4;0;neutro o insatisfecho
+94548;F;Frecuente;55;Negocios;Economica;528;2;1;2;4;2;2;1;5;neutro o insatisfecho
+100733;M;Frecuente;33;Negocios;Economica;328;4;4;4;4;4;2;4;40;neutro o insatisfecho
+25269;M;Frecuente;16;Negocios;Ejecutiva;3149;3;5;3;3;3;1;3;0;neutro o insatisfecho
+84776;F;Frecuente;27;Negocios;Ejecutiva;1703;5;5;5;5;5;3;5;10;satisfecho
+47099;F;Frecuente;45;Personal;Economica;438;3;5;5;5;4;4;3;0;neutro o insatisfecho
+69067;M;Esporadico;31;Negocios;Economica;1389;3;3;5;5;5;4;5;126;neutro o insatisfecho
+14666;M;Esporadico;23;Negocios;Economica;430;4;3;3;3;3;5;3;0;satisfecho
+59844;F;Frecuente;45;Negocios;Ejecutiva;1023;1;1;4;5;3;3;3;0;satisfecho
+104845;F;Frecuente;16;Personal;Economica;472;3;5;3;1;3;5;1;145;neutro o insatisfecho
+41139;M;Frecuente;35;Personal;Economica;429;3;5;5;2;5;4;5;0;neutro o insatisfecho
+27891;M;Frecuente;57;Personal;Economica;2329;2;4;2;4;3;5;4;0;neutro o insatisfecho
+36298;F;Frecuente;36;Negocios;Ejecutiva;187;2;2;5;4;5;5;5;0;satisfecho
+109803;M;Frecuente;52;Negocios;Ejecutiva;1073;2;2;5;5;2;2;5;13;satisfecho
+116942;M;Esporadico;29;Negocios;Economica;646;3;3;1;1;1;4;1;56;neutro o insatisfecho
+36890;M;Frecuente;28;Negocios;MuyEconomicanomica;1182;0;0;3;3;3;3;3;31;satisfecho
+29005;F;Frecuente;22;Negocios;Ejecutiva;2652;2;2;4;4;4;1;4;0;satisfecho
+107628;M;Frecuente;61;Personal;Economica;423;5;4;4;3;4;3;4;0;satisfecho
+79556;F;Frecuente;51;Negocios;Ejecutiva;2464;5;2;5;4;5;5;4;0;satisfecho
+125848;M;Esporadico;37;Negocios;Economica;861;2;2;300;3;3;2;3;0;neutro o insatisfecho
+2826;F;Frecuente;31;Negocios;Ejecutiva;491;4;4;4;4;4;5;4;67;satisfecho
+113116;F;Frecuente;44;Personal;Economica;479;3;4;5;3;2;2;1;26;neutro o insatisfecho
+123990;M;Frecuente;58;Negocios;Ejecutiva;184;3;3;4;4;5;5;3;0;satisfecho
+47208;F;Frecuente;53;Personal;Economica;748;3;4;4;2;2;2;1;0;neutro o insatisfecho
+21391;F;Esporadico;34;Negocios;Economica;399;3;5;3;3;3;5;3;0;neutro o insatisfecho
+93976;F;Esporadico;26;Negocios;Ejecutiva;1218;5;4;5;5;5;3;5;0;satisfecho
+114409;F;Frecuente;54;Negocios;Ejecutiva;2170;1;1;3;4;5;5;5;0;satisfecho
+34017;F;Frecuente;51;Personal;Economica;1576;2;4;3;4;3;3;4;34;neutro o insatisfecho
+88317;F;Esporadico;52;Negocios;Ejecutiva;515;5;5;3;3;3;4;3;0;satisfecho
+25899; ;Frecuente;65;Personal;Economica;907;3;5;3;4;2;2;3;7;neutro o insatisfecho
+108987;M;Frecuente;60;Negocios;Ejecutiva;3017;1;1;5;5;3;3;4;0;satisfecho
+116625;F;Frecuente;73;Negocios;MuyEconomicanomica;390;3;5;5;4;3;3;2;9;neutro o insatisfecho
+21435;F;Frecuente;36;Negocios;Economica;331;3;2;3;3;3;4;3;0;neutro o insatisfecho
+112103;M;Frecuente;16;Personal;Economica;1062;4;4;2;2;2;4;2;1;satisfecho
+10545;F;Esporadico;18;Negocios;Ejecutiva;667;5;5;1;1;1;4;1;10;satisfecho
+19806;F;Frecuente;39;Negocios;Ejecutiva;413;1;1;4;2;4;4;4;115;satisfecho
+27291;F;Frecuente;40;Negocios;Economica;697;5;1;5;5;5;2;5;0;satisfecho
+122303; ;Frecuente;28;Personal;Economica;546;2;3;1;3;1;1;1;3;neutro o insatisfecho
+12861;F;Frecuente;47;Negocios;MuyEconomicanomica;489;4;3;3;3;4;4;4;0;satisfecho
+52134;M;Frecuente;57;Negocios;Ejecutiva;3430;3;3;2;4;5;5;5;0;satisfecho
+46391;F;Frecuente;31;Personal;Economica;1013;3;2;300;3;3;3;3;0;neutro o insatisfecho
+39132;F;Frecuente;39;Negocios;Ejecutiva;3700;4;4;2;1;5;5;5;0;satisfecho
+52277;F;Esporadico;39;Negocios;Ejecutiva;451;1;1;5;5;5;4;5;0;neutro o insatisfecho
+43790;M;Frecuente;69;Personal;MuyEconomicanomica;546;3;4;2;2;2;5;2;5;neutro o insatisfecho
+53647;M;Frecuente;27;Negocios;MuyEconomicanomica;1874;0;0;5;2;5;5;5;0;satisfecho
+5448; ;Frecuente;24;Negocios;Ejecutiva;1809;3;3;3;3;3;1;3;0;neutro o insatisfecho
+75348;M;Frecuente;50;Personal;Economica;2615;2;5;2;3;5;4;3;0;neutro o insatisfecho
+121338;F;Frecuente;59;Negocios;Ejecutiva;3203;5;5;4;5;2;2;3;7;satisfecho
+29336;F;Frecuente;40;Personal;Economica;933;5;4;1;1;1;3;1;0;satisfecho
+88494;M;Esporadico;17;Negocios;Economica;250;5;4;2;2;2;4;2;0;satisfecho
+83526;F;Frecuente;36;Personal;Economica;946;2;1;1;1;1;3;1;0;neutro o insatisfecho
+126503; ;Frecuente;67;Personal;Economica;1788;2;2;2;2;2;3;2;0;neutro o insatisfecho
+95159;M;Frecuente;28;Personal;Economica;239;2;5;5;5;5;5;5;31;neutro o insatisfecho
